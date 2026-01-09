@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: trip reports and some yapping
 nav: true
 nav_order: 1
 pagination:
