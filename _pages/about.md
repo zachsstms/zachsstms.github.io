@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
 subtitle: Mostly nonsensical ramblings with a touch of insight and adventure
 
