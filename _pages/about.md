@@ -28,9 +28,6 @@ latest_posts:
 Yo! My name is Zach Selzman and I am a current junior at Cal Poly studying Aerospace engineering. This website was created primarily to give myself an avenue to vent about my excursions in the mountains (check out [the blog](/al-folio/blog/)). Other than that, I have some projects I found interesting enough to get me off instagram reels [over here](/al-folio/projects/).
 I'm just getting started with this, so more content will follow as I get the hang of github pages (I lack both a motivation and aptitude for web development).
 
-<p align="center">
-  <img src="{{zachsstms.github.io}}/assets/img/peak6.JPG" width="60%">
-</p>
 
 If you want to  Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
