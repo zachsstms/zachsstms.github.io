@@ -6,7 +6,7 @@ subtitle: _Mostly nonsensical ramblings with a touch of insight and adventure_
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Newprofilepic.png
   image_circular: false # crops the image to make it circular
   more_info: >
      From Utah, currently based in California 🌊
