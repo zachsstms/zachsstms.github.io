@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _Mostly nonsensical ramblings with a touch of insight and adventure_
+subtitle: "<em>Mostly nonsensical ramblings with a touch of insight and adventure</em>"
 
 profile:
   align: right
