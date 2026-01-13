@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Yo! My name is Zach Selzman and I am a current junior at Cal Poly studying Aerospace engineering. This website was created primarily to give myself an avenue to vent about my excursions in the mountains (check out [the blog](/zachsstms.github.io/blog/)). Other than that, I have some projects I found interesting enough to get me off instagram reels [over here](/zachsstms.github.io/projects/).
+Yo! My name is Zach Selzman and I am a current junior at Cal Poly studying Aerospace engineering. This website was created primarily to give myself an avenue to vent about my excursions in the mountains (check out [the blog](/al-folio/blog/)). Other than that, I have some projects I found interesting enough to get me off instagram reels [over here](/al-folio/projects/).
 I'm just getting started with this, so more content will follow as I get the hang of github pages (I lack both a motivation and aptitude for web development).
 
 
