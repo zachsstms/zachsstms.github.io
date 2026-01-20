@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 Yo! My name is Zach Selzman and I am a current junior at Cal Poly studying Aerospace engineering. This website was created primarily to give myself an avenue to vent about my excursions in the mountains (check out [the blog](/blog/)). Other than that, I have some projects I found interesting enough to get me off instagram reels [over here](/projects/).
-I'm just getting started with this, so more content will follow as I get the hang of github pages (I lack both a motivation and aptitude for web development).
+I'm just getting started with this, so more content will follow as I desperately attempt get the hang of github pages (I lack both a motivation and aptitude for web development).
 
 
 I'm using the code from another generous [github user](https://github.com/alshedivat/al-folio) as a template, so the site will still be littered with some stuff that is quite broad, such as ["a post with image galleries"](blog/2025/plotly/). Over time, I hope to develop this site out to truly make it mine, although the process is a bit tedious and it could take a while—appreciate the patience. 
