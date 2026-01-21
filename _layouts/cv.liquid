@@ -2,8 +2,58 @@
 layout: default
 ---
 <!-- _layouts/cv.html -->
-        <div class="post">
 
-	<object data="../assets/pdf/Resume-5.pdf#pagemode=none" width="750" height="1000" type='application/pdf'></object>
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+      {% if page.cv_pdf %}
+        <a
+          {% if page.cv_pdf contains '://' %}
+            href="{{ page.cv_pdf }}"
+          {% else %}
+            href="{{ page.cv_pdf | relative_url }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+          aria-label="Open PDF in new tab"
+        >
+          <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
+        </a>
+      {% endif %}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
 
-        </div>
+  <article>
+    <div class="cv">
+      {% comment %}
+        Resolve the PDF URL for embedding and fallback.
+        If page.cv_pdf is not supplied, this uses your existing path as default.
+      {% endcomment %}
+      {% assign pdf_url = page.cv_pdf | default: "../assets/pdf/Resume-5.pdf" %}
+      {% if pdf_url contains '://' %}
+        {% assign pdf_href = pdf_url %}
+      {% else %}
+        {% assign pdf_href = pdf_url | relative_url %}
+      {% endif %}
+
+      <object
+        data="{{ pdf_href }}#pagemode=none"
+        width="750"
+        height="1000"
+        type="application/pdf"
+      >
+        <!-- Accessible fallback if browser can't render PDFs -->
+        <p>
+          Your browser does not support inline PDFs. You can
+          <a href="{{ pdf_href }}" target="_blank" rel="noopener noreferrer">open the PDF in a new tab</a>
+          or <a href="{{ pdf_href }}" download>download it</a>.
+        </p>
+      </object>
+    </div>
+  </article>
+</div>
