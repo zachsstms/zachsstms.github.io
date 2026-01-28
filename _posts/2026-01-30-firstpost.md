@@ -4,7 +4,7 @@ title: A Long Day on the Eastside (aren't they all)
 date: 2023-01-27 11:59:00-0700
 description: A creative linkup and some thoughts on ego in the mountains
 tags: mountains philosophy
-categories: sample-posts
+categories: mountain-adventures
 thumbnail: assets/img/Blogposts/Mtwhitneyloopblog_firstone/thumbnail.jpg
 ---
 
@@ -12,10 +12,10 @@ First blog post! Let's see how this goes...🤞
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/dark.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/bootpackingthesnow.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
