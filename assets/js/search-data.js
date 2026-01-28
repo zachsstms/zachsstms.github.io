@@ -56,7 +56,7 @@ ninja.data = [{
         
           title: "A Long Day on the Eastside (aren&#39;t they all)",
         
-        description: "A creative line and some thoughts on ego in the mountains",
+        description: "A creative linkup and some thoughts on ego in the mountains",
         section: "Posts",
         handler: () => {
           
