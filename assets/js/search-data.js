@@ -52,9 +52,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/table-of-contents/";
           
         },
-      },{id: "post-long-day-on-the-eastside-aren-39-t-they-all",
+      },{id: "post-a-long-day-on-the-eastside-aren-39-t-they-all",
         
-          title: "Long Day on the Eastside (Aren&#39;t they all)",
+          title: "A Long Day on the Eastside (aren&#39;t they all)",
         
         description: "A creative line and some thoughts on ego in the mountains",
         section: "Posts",
