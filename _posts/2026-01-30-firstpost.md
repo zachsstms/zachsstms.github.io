@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Long Day on the Eastside (Aren't they all) 
-date: 2026-01-30 21:01:00
+date: 2023-01-27 11:59:00-0700
 description: A creative line and some thoughts on ego in the mountains
 tags: mountains philosophy
 categories: sample-posts
