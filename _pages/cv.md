@@ -8,4 +8,3 @@ cv_pdf: Resume-5.pdf # you can also use external links here
 description: Page Description
 cv_pdf: Resume-5.pdf
 ---
-If viewing in dark mode and on a mobile device, the embedded pdf will not show, I recommend clicking the `pdf` link :metal:
