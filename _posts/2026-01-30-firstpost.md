@@ -70,6 +70,9 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/assets/img/Blogposts/Mtwhitneyloopblog_firstone/Map-5811368.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+The route is a more direct and steep variation, and has a few somewhat technical components, although, the greatest hazard is probably rock fall, rather than technical demand. The route generally adheres straight up the drainage until Iceberg Lake, where it then ascends the main couloir.
+<aside><p> Due to the location and noteriety, this couloir is also characterized as one of the "50 Classic Ski Descents of North America" </p></aside>
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
