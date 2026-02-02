@@ -92,5 +92,6 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
     Fun time with the club, heading up the Mountaineer's Route!
 </div>
 
+`Blog is currently in progress...hope to finish it by the end of the week!`
 ## A Romantic Line 
 ---
