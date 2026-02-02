@@ -6,6 +6,8 @@ description: A creative linkup and some thoughts on ego in the mountains
 tags: mountains philosophy
 categories: mountain-adventures
 thumbnail: assets/img/Blogposts/Mtwhitneyloopblog_firstone/thumbnail.jpg
+toc:
+  beginning: true
 ---
 
 First blog post! Let's see how this goes...🤞
