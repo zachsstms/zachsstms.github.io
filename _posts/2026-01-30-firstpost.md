@@ -29,6 +29,11 @@ A few months ago, I found myself in an uncomfortable yet familiar position: roll
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/boundaryview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/topofboundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ascending boundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
