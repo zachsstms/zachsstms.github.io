@@ -30,7 +30,7 @@ A few months ago, I found myself in an uncomfortable yet familiar position: roll
 `Blog Post Currently in Progress...!`
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/boundaryview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ascending boundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
@@ -38,7 +38,7 @@ A few months ago, I found myself in an uncomfortable yet familiar position: roll
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/topofboundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ascending boundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/boundaryview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/selfieboundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -79,3 +79,5 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
 <div class="caption">
     Fun time with the club, heading up the Mountaineer's Route!
 </div>
+
+## A Romantic Line 
