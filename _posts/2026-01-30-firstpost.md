@@ -49,7 +49,7 @@ A few months ago, I found myself in an uncomfortable yet familiar position: roll
 </div>
 The boundary peak wilderness is pretty remote, and, like the rest of the region, is more comfortable with a burly high clearance vehicle---not necessarily my Mom's 2008 Toyota Highlander. Nonetheless, after a successful day out, I drove across the border into the Owens valley, deciding to stage myself for an attempt at Mt. Pinchot the following morning. 
 
-I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.gov/r05/inyo/recreation/trails/taboose-pass-trail), but the road was rather gnarly, and I couldn't drive to the trailhead. Moreover, a rain/snow mix the following morning dampered my ambitions, and I made a spontanteous decision to re-route my day towards the Whitney region. After driving the hour to Lone Pine, I rolled into the ranger station at around 10 in the morning. With most Whitney parties starting before the sun, I got some considerable warnings from the ranger as I went to purchase my day use permit! I don't typically do well when it comes to listening to authority figures, so I continued up to the Whitney portal, beginning my hike up the [standard route](https://www.timberlinetrails.com/WhitneyTrail.html) at around 2 pm. The route was developed in 1904 with the use of mules, which made for efficient travel, and I was even almost able to beat the dark! I was a bit worried about crowds, but some adverse weather meant I was mostly rolling solo. I ended up pushing for both Whitney and Mt. Muir, resulting in the summit of two 14ers and four 13+ers in during the weekend...which is meaningless, but more on that later.
+I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.gov/r05/inyo/recreation/trails/taboose-pass-trail), but the road was rather gnarly, and I couldn't drive to the trailhead. Moreover, a rain/snow mix the following morning dampered my ambitions, and I made a spontanteous decision to re-route my day towards the Whitney region. After driving the hour to Lone Pine, I rolled into the ranger station at around 10 in the morning. With most Whitney parties starting before the sun, I got some considerable warnings from the ranger as I went to purchase my day use permit! I don't typically do well when it comes to listening to authority figures, so I continued up to the Whitney portal, beginning my hike up the [standard route](https://www.timberlinetrails.com/WhitneyTrail.html) at around 2 pm. The route was developed in 1904 with the use of mules, which made for efficient travel, and I was even almost able to beat the dark! I was a bit worried about crowds, but some adverse weather meant I was mostly rolling solo. I ended up pushing for both Whitney and Mt. Muir, resulting in the summit of two 14ers and four 13(+)ers during the weekend...which is meaningless, but more on that later.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -63,17 +63,23 @@ I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.
 </div>
 
 #### Heading back
-After a fun adventure on my way out to school, I returned to Whitney with the [Cal Poly Alpine Club](https://www.instagram.com/calpolyalpineclub/). With them, I 
+After a fun adventure on my way out to school, I returned to Whitney with the [Cal Poly Alpine Club](https://www.instagram.com/calpolyalpineclub/). I was quite excited to tag along, mainly because the group was attempting the [ountaineer's Route](https://summitborn.com/mount-whitney-mountaineers-route-guide/), which branches off to the north fork of lone pine creek, rather than follow lone pine creek itself---which is what I had done previously on the ["soft and succulent route."](https://mikeygribbin.com/bloglist/2018/8/1/mt-whitney-summit-via-the-mountaineers-route-the-ultimate-hike)
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/assets/img/Blogposts/Mtwhitneyloopblog_firstone/Map-5811368.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2num2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneypart2num3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2num2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -81,3 +87,4 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
 </div>
 
 ## A Romantic Line 
+---
