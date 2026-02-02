@@ -22,8 +22,9 @@ First blog post! Let's see how this goes...🤞
     Most epic days in the Sierra Nevada begin in the dark and cold. 
 </div>
 
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
+A few months ago, I found myself in an uncomfortable yet familiar position: rolling in to the Alabama Hills late into the night. It was my third time in the area, all of which being a staging ground for adventures up on [Mt. Whitney](https://en-ca.topographic-map.com/map-hbk9mt/Mount-Whitney/?center=36.57617%2C-118.29117&zoom=13). My first experience with Whitney was at the beginning of my sophomore year in college. I was driving to [SLO](https://www.google.com/maps/place/San+Luis+Obispo,+CA/@35.2722916,-120.7116799,13z/data=!3m1!4b1!4m6!3m5!1s0x80ece6be7b6cc227:0xbc0290c2ceef0f46!8m2!3d35.2827524!4d-120.6596156!16zL20vMHI1bHo?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D) from [home](https://www.google.com/maps/place/Salt+Lake+City,+UT/@40.7759327,-112.5118489,10z/data=!3m1!4b1!4m6!3m5!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!8m2!3d40.7605601!4d-111.8881397!16zL20vMGYycjY?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D) and wanted to experience the beautiful Owens Valley for the first time. On my way out, I ventured up [Boundary and Montgomery peaks](https://www.summitpost.org/boundary-peak-and-montgomery-peak/946031) on the northern tinge of the White mountains. This was my first experience near the Eastern Sierra, and I was excited to get my first glimpses...
+
+`Blog Post Currently in Progress...!`
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
