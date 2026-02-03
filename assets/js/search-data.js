@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-long-day-on-the-eastside-aren-39-t-they-all",
+        },{id: "post-a-long-day-on-the-eastside-aren-39-t-they-all",
         
           title: "A Long Day on the Eastside (aren&#39;t they all)",
         
