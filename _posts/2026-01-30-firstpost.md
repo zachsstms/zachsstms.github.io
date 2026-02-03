@@ -71,7 +71,7 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
     </div>
 </div>
 The route is a more direct and steep variation, and has a few somewhat technical components, although, the greatest hazard is probably rock fall, rather than technical demand. The route generally adheres straight up the drainage until Iceberg Lake, where it then ascends the main couloir.
-<aside><p> Due to the location and noteriety, this couloir is also characterized as one of the "50 Classic Ski Descents of North America" </p></aside>
+<d-footnote>Due to the location and noteriety, this couloir is also characterized as one of the "50 Classic Ski Descents of North America"</d-footnote>
 The main couloir is not super tricky per-se, although it's bascially a huge funnel for rocks to smash you. With helmets on, we trudged up it as quick as we could. From the top of the couloir, there is a steep and short chute up to the summit plateau. Some group members elected to traverse around to the west side of Whitney. However, with some care to avoid the ice in the chute, I decided ot ascend the direct way with a few others, rendezvousing with the rest of the group at the summit shelter. With a happy crew, we exited via the standard route, the seemingly infinite number of switchbacks freshly burned in my memory :laughing:
 
 
@@ -95,6 +95,7 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
 ## A Romantic Line 
 ---
 With a few successful adventures on Whitney, a year later I had serious ambitions, and I began to develop an interesting route plan....
+
 
 
 
