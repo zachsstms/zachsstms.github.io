@@ -63,7 +63,7 @@ I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.
 </div>
 
 #### Heading back
-After a fun adventure on my way out to school, I returned to Whitney with the [Cal Poly Alpine Club](https://www.instagram.com/calpolyalpineclub/). I was quite excited to tag along, mainly because the group was attempting the [ountaineer's Route](https://summitborn.com/mount-whitney-mountaineers-route-guide/), which branches off to the north fork of lone pine creek, rather than follow lone pine creek itself---which is what I had done previously on the ["soft and succulent route."](https://mikeygribbin.com/bloglist/2018/8/1/mt-whitney-summit-via-the-mountaineers-route-the-ultimate-hike)
+After a fun adventure on my way out to school, I returned to Whitney with the [Cal Poly Alpine Club](https://www.instagram.com/calpolyalpineclub/). I was quite excited to tag along, mainly because the group was attempting the [Mountaineer's Route](https://summitborn.com/mount-whitney-mountaineers-route-guide/), which branches off to the north fork of lone pine creek, rather than follow lone pine creek itself---which is what I had done previously on the ["soft and succulent route."](https://mikeygribbin.com/bloglist/2018/8/1/mt-whitney-summit-via-the-mountaineers-route-the-ultimate-hike)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -95,6 +95,7 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
 ## A Romantic Line 
 ---
 With a few successful adventures on Whitney, a year later I had serious ambitions, and I began to develop an interesting route plan....
+
 
 
 
