@@ -14,7 +14,7 @@ First blog post! Let's see how this goes...🤞
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/dark.jpg" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/dark.JPG" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/bootpackingthesnow.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
