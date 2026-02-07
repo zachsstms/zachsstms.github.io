@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: A Long Day on the Eastside (aren't they all) 
 date: 2023-01-27 11:59:00-0700
 description: A creative linkup and some thoughts on ego in the mountains
