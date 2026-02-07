@@ -55,7 +55,7 @@ I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1selfie.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1selfie.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -72,6 +72,7 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
 </div>
 The route is a more direct and steep variation, and has a few somewhat technical components, although, the greatest hazard is probably rock fall, rather than technical demand. The route generally adheres straight up the drainage until Iceberg Lake, where it then ascends the main couloir.<sup id="sn-1">1</sup>
 The main couloir is not super tricky per-se, although it's bascially a huge funnel for rocks to smash you. With helmets on, we trudged up it as quick as we could. From the top of the couloir, there is a steep and short chute up to the summit plateau. Some group members elected to traverse around to the west side of Whitney. However, with some care to avoid the ice in the chute, I decided to ascend the direct way with a few others, rendezvousing with the rest of the group at the summit shelter. With a happy crew, we exited via the standard route, the seemingly infinite number of switchbacks freshly burned in my memory :laughing:
+
 {% sidenote 1 %}
 Due to the location and noteriety, this couloir is also characterized as one of the "50 Classic Ski Descents of North America."
 {% endsidenote %}
