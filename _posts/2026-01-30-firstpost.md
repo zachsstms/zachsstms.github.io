@@ -67,7 +67,7 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/assets/img/Blogposts/Mtwhitneyloopblog_firstone/Map-5811368.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Map-5811368.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
