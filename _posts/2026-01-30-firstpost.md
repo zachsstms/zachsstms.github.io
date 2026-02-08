@@ -102,11 +102,23 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
 `Blog is currently in progress...hope to finish it by the end of the week! `
 
 ## A Romantic Line 
----
-With a few successful adventures on Whitney, a year later I had serious ambitions, and I began to develop an interesting route plan....
 
+With a few successful adventures on Whitney, a year later I had ambitions for a different vision. I found myself driving back to Lone Pine with the Alpine Club, although, this time Whitney was not the focus. 
 
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/initial view from whitney to the jmt.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitney looking west.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/view of russel from whitney.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Fun time with the club, heading up the Mountaineer's Route!
+</div>
 
 
 
