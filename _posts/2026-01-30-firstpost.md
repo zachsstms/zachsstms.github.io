@@ -121,6 +121,7 @@ With a few successful adventures on Whitney, a year later I had ambitions for a 
     From past adventures on Whitney, I feel the draw of Mt. Russell and the Kern River Valley
 </div>
 
+`Blog Post in Progress...Hope to finish somewhat soon!`
 
 
 
