@@ -99,8 +99,6 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
     Fun time with the club, heading up the Mountaineer's Route!
 </div>
 
-`Blog is currently in progress...hope to finish it by the end of the week! `
-
 ## A Romantic Line 
 
 With a few successful adventures on Whitney, a year later I had ambitions for a different vision. I found myself driving back to Lone Pine with the Alpine Club, although, this time Whitney was not the focus. 
@@ -118,11 +116,11 @@ With a few successful adventures on Whitney, a year later I had ambitions for a 
     
 </div>
 <div class="caption">
-    From past adventures on Whitney, I feel the draw of Mt. Russell and the Kern River Valley
+    From past adventures on Whitney, I felt the draw of Mt. Russell and the Kern River Valley
 </div>
+The Whitney buttress is home to one of the best views in the Sierra. This is largely due to the extensive cliffs that lift the Whitney ridge from the eastern slopes. On the west side, the ancient Kern river valley carves the view out to the Kaweah and the greater King's Canyon. This west side is quite challenging to access, and is rarely traveled with the exception of thru-hikers. One of the methods for accessing this zone is via the JMT, which is one of the more popular thru-hikes in the country, and is often regarded to be one of the best parts of the PCT. The JMT runs from Mt. Whitney and ends in Yosemite valley, traversing into the Whitney creek drainage (which then feeds into the Kern) directly south of Mt. Muir. As such, during my two days on Whitney, the JMT began to accumulate a serious pull. 
 
-`Blog Post in Progress...Hope to finish somewhat soon!`
+What is out there in the deep(er) Sierra? <footnote>Little bit funny considering the scale of the range, let alone the fact that the JMT is one of the most traveled thru-hikes in the U.S. but it felt REMOTE to me 😂</footnote> 
 
 
-
-
+`Blog in Progress, you're too early!`
