@@ -122,13 +122,20 @@ With a few successful adventures on Whitney, a year later I had ambitions for a 
 <div class="caption">
     From past adventures on Whitney, I felt the draw of Mt. Russell and the Kern River Valley
 </div>
-The Whitney buttress is home to one of the best views in the Sierra. This is largely due to the extensive cliffs that lift the Whitney ridge from the eastern slopes. On the west side, the ancient Kern river valley carves the view out to the Kaweah and the greater King's Canyon. This west side is quite challenging to access, and is rarely traveled with the exception of thru-hikers. One of the methods for accessing this zone is via the JMT, which is one of the more popular thru-hikes in the country, and is often regarded to be one of the best parts of the PCT. The JMT runs from Mt. Whitney and ends in Yosemite valley, traversing into the Whitney creek drainage (which then feeds into the Kern) directly south of Mt. Muir. As such, during my two days on Whitney, the JMT began to accumulate a serious pull. 
+
+The Whitney buttress is home to one of the best views in the Sierra. This is largely due to the extensive cliffs that lift the Whitney ridge from the eastern slopes. On the west side, the ancient [Kern](https://en.wikipedia.org/wiki/Kern_River) river valley carves the view out to the Kaweah and the greater King's Canyon. This west side is quite challenging to access, and is rarely traveled with the exception of thru-hikers. One of the methods for accessing this zone is via the [JMT](https://www.nps.gov/yose/planyourvisit/jmt.htm), which is one of the more popular thru-hikes in the country, and is often regarded to be one of the best parts of the PCT. The JMT runs from Mt. Whitney and ends in Yosemite valley, traversing into the Whitney creek drainage (which then feeds into the Kern) directly south of Mt. Muir. As such, during my two days on Whitney, the JMT began to accumulate a serious pull. 
 
 What is out there in the deep(er) Sierra?<d-footnote>Little bit funny considering the scale of the range, let alone the fact that the JMT is one of the most traveled thru-hikes in the U.S. but it felt REMOTE to me 😂</d-footnote>
 
 Turns out, there's a heck of a whole lot!
 
-With the gravity of the deep Sierra growing, I started to brainstorm potential lines that I could do to dip my toes in without having to spend the night. Backpacking is an incredibly wonderful experience and is worth pursuing in its own right. However, once you make the decision to spend the night in the mountains, your all-up weight basically doubles. I suppose I could go the emergency blanket/ multiple layer route, but that kinda sucks. If you're gonna camp in the mountains, you might as well carry the weight to be comfortable. Anyways, I typically enjoy fast and relatively unencumbered travel through the mountains, which restricted my plans to be around 20 hours at the maximum. Because I was responsible for driving a few Alpine Club members to the Whitney Portal trailhead, I knew I had to both start and finish there. 
+With the gravity of the deep Sierra growing, I started to brainstorm potential lines that I could do to dip my toes in without having to spend the night. Backpacking is an incredibly wonderful experience and is worth pursuing in its own right. However, once you make the decision to spend the night in the mountains, your all-up weight basically doubles. I suppose I could have gone the emergency blanket/ multiple layer route, but that kinda sucks. If you're gonna camp in the mountains, you might as well carry the weight to be comfortable. 
+
+Anyways, I typically enjoy fast and relatively unencumbered travel through the mountains, which restricted my plans to be around 20 hours at the maximum. Because I was responsible for driving a few Alpine Club members to the Whitney Portal trailhead, I knew I had to both start and finish there. That meant that if I wanted to go for a ridge linkup, I would have to either push north or south. 
+
+It was a hard decision, with the imposing [Mt. Langley](https://en.wikipedia.org/wiki/Mount_Langley), begging for a whitney linkup (maybe this will come in the future). Yet, heading south wouldn't be the continuous linkup I was hoping for, and the aesthetics of [Russell](https://www.summitpost.org/mount-russell/150515) drew my imagination north.... 
+
+
 
 
 
