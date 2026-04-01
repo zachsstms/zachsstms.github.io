@@ -4,7 +4,7 @@ permalink: /cv/
 title: resume
 nav: true
 nav_order: 5
-cv_pdf: Resume-5.pdf # you can also use external links here
+cv_pdf: Current_Resume_Selzman-1.pdf # you can also use external links here
 description: Page Description
-cv_pdf: Resume-6.pdf
+cv_pdf: Current_Resume_Selzman-1.pdf
 ---
