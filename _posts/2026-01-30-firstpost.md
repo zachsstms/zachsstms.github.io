@@ -126,5 +126,10 @@ The Whitney buttress is home to one of the best views in the Sierra. This is lar
 
 What is out there in the deep(er) Sierra?<d-footnote>Little bit funny considering the scale of the range, let alone the fact that the JMT is one of the most traveled thru-hikes in the U.S. but it felt REMOTE to me 😂</d-footnote>
 
+Turns out, there's a heck of a whole lot!
+
+With the gravity of the deep Sierra growing, I started to brainstorm potential lines that I could do to dip my toes in without having to spend the night. Backpacking is an incredibly wonderful experience and is worth pursuing in its own right. However, once you make the decision to spend the night in the mountains, your all-up weight basically doubles. I suppose I could go the emergency blanket/ multiple layer route, but that kinda sucks. If you're gonna camp in the mountains, you might as well carry the weight to be comfortable. Anyways, I typically enjoy fast and relatively unencumbered travel through the mountains, which restricted my plans to be around 20 hours at the maximum. Because I was responsible for driving a few Alpine Club members to the Whitney Portal trailhead, I knew I had to both start and finish there. 
+
+
 
 `Blog in Progress, you're too early!`
