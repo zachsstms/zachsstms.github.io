@@ -133,7 +133,19 @@ With the gravity of the deep Sierra growing, I started to brainstorm potential l
 
 Anyways, I typically enjoy fast and relatively unencumbered travel through the mountains, which restricted my plans to be around 20 hours at the maximum. Because I was responsible for driving a few Alpine Club members to the Whitney Portal trailhead, I knew I had to both start and finish there. That meant that if I wanted to go for a ridge linkup, I would have to either push north or south. 
 
-It was a hard decision, with the imposing [Mt. Langley](https://en.wikipedia.org/wiki/Mount_Langley), begging for a whitney linkup (maybe this will come in the future). Yet, heading south wouldn't be the continuous linkup I was hoping for, and the aesthetics of [Russell](https://www.summitpost.org/mount-russell/150515) drew my imagination north.... 
+It was a hard decision, with the imposing [Mt. Langley](https://en.wikipedia.org/wiki/Mount_Langley) begging for a whitney linkup (maybe this will come in the future). Yet, heading south wouldn't be the continuous linkup I was hoping for, and the aesthetics of [Russell](https://www.summitpost.org/mount-russell/150515) drew my imagination north...
+
+The key was the [Wallace Lakes trail](https://www.alltrails.com/trail/us/california/wallace-lake), which runs from the PCT to Wallace lake basin. The trail is a unique East-West cut in the eastern Sierra, and opened the door for a cool trail linkup. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Wallace Lakes.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Wallace Lake, forming the snow drain from the Tunnabora meadow
+</div>
+
 
 
 
