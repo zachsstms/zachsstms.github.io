@@ -146,7 +146,7 @@ The key was the [Wallace Lakes trail](https://www.alltrails.com/trail/us/califor
     Wallace Lake, forming the snow drain from the Tunnabora meadow
 </div>
 
-This basin is incredibly remote, largely because the trail approach is from [Shepherd Pass](https://www.fs.usda.gov/r05/inyo/recreation/trails/shepherd-pass-trail), which is a lengthy backpacking trip. The other logical accessing point is from the Russell-Carillon pass, which requires some light scrambling. With the PCT-JMT connection, I decided that I wanted to get into this zone!
+This basin is incredibly remote, largely because the trail approach is from [Shepherd Pass](https://www.fs.usda.gov/r05/inyo/recreation/trails/shepherd-pass-trail), which is a lengthy backpacking trip. The other logical accessing point is from the Russell-Carillon pass, which requires some light scrambling. With the PCT-JMT connection on the back half, I decided that I wanted to get into this zone!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -157,7 +157,8 @@ This basin is incredibly remote, largely because the trail approach is from [She
     The route! One of my more aesthetic mountain linkups!
 </div>
 
+I think the holy grail of mountain linkups are `loops.` Man, they're the coolest. 
 
-
+Loops 
 
 `Blog in Progress, you're too early!`
