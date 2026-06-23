@@ -19,10 +19,10 @@ First blog post! Let's see how this goes...🤞
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/dark.JPG" class="img-fluid rounded z-depth-1" zoomable=false %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/dark.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/bootpackingthesnow.jpg" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/bootpackingthesnow.webp" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
@@ -35,18 +35,18 @@ First blog post! Let's see how this goes...🤞
 A few months ago, I found myself in an uncomfortable yet familiar position: rolling into the Alabama Hills late at night. It was my third time in the area, all of which being a staging ground for adventures up on [Mt. Whitney](https://en-ca.topographic-map.com/map-hbk9mt/Mount-Whitney/?center=36.57617%2C-118.29117&zoom=13). My first experience with Whitney was at the beginning of my sophomore year in college. I was driving to [SLO](https://www.google.com/maps/place/San+Luis+Obispo,+CA/@35.2722916,-120.7116799,13z/data=!3m1!4b1!4m6!3m5!1s0x80ece6be7b6cc227:0xbc0290c2ceef0f46!8m2!3d35.2827524!4d-120.6596156!16zL20vMHI1bHo?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D) from [home](https://www.google.com/maps/place/Salt+Lake+City,+UT/@40.7759327,-112.5118489,10z/data=!3m1!4b1!4m6!3m5!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!8m2!3d40.7605601!4d-111.8881397!16zL20vMGYycjY?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D) and wanted to experience the beautiful Owens Valley for the first time. On my way out, I ventured up [Boundary and Montgomery peaks](https://www.summitpost.org/boundary-peak-and-montgomery-peak/946031) on the northern tinge of the White mountains. This was my first experience near the Eastern Sierra, and I was excited to get my first glimpses of the famous mountain corridor.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ascending boundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ascending boundary.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/topofboundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/topofboundary.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/boundaryview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/boundaryview.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/selfieboundary.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/selfieboundary.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -57,10 +57,10 @@ The boundary peak wilderness is pretty remote, and, like the rest of the region,
 I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.gov/r05/inyo/recreation/trails/taboose-pass-trail), but the road was rather gnarly, and I couldn't drive to the trailhead. Moreover, a rain/snow mix the following morning dampered my ambitions, and I made a spontanteous decision to re-route my day towards the Whitney region. After driving the hour to Lone Pine, I rolled into the ranger station at around 10 in the morning. With most Whitney parties starting before the sun, I got some considerable warnings from the ranger as I went to purchase my day use permit! I don't typically do well when it comes to listening to authority figures, so I continued up to the Whitney portal, beginning my hike up the [standard route](https://www.timberlinetrails.com/WhitneyTrail.html) at around 2 pm. The route was developed in 1904 with the use of mules, which made for efficient travel, and I was even almost able to beat the dark! I was a bit worried about crowds, but some adverse weather meant I was mostly rolling solo. I ended up pushing for both Whitney and Mt. Muir, resulting in the summit of two 14ers and four 13(+)ers during the weekend...which is meaningless, but more on that later.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1selfie.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround1selfie.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -72,14 +72,14 @@ After a fun adventure on my way out to school, I returned to Whitney with the [C
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Map-5811368.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Map-5811368.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 The route is a more direct and steep variation, and has a few somewhat technical components, although, the greatest hazard is probably rock fall, rather than technical demand. The route generally adheres straight up the drainage until Iceberg Lake, where it then ascends the main couloir.<d-footnote>Due to the location and noteriety, this couloir is also characterized as one of the "50 Classic Ski Descents of North America."</d-footnote>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/couloirview.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/couloirview.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -90,13 +90,13 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneypart2num3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneypart2num3.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2num2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyround2num2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -109,13 +109,13 @@ With a few successful adventures on Whitney, a year later (as a Junior) I had am
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/view of russel from whitney.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/view of russel from whitney.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/initial view from whitney to the jmt.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/initial view from whitney to the jmt.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitney looking west.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitney looking west.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     
 </div>
@@ -139,7 +139,7 @@ The key was the [Wallace Lakes trail](https://www.alltrails.com/trail/us/califor
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Wallace Lakes.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Wallace Lakes.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -150,7 +150,7 @@ This basin is incredibly remote, largely because the trail approach is from [She
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Theroute.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Theroute.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption"> 
@@ -240,7 +240,7 @@ The Morgenson ridge was pretty tricky with some ass-clenching exposure and ice d
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/morgensonridge2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/moregensonridge1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/morgensonridge1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -274,7 +274,7 @@ The Wallace basin was crucial for refilling my water, refueling, and radioing to
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallace1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallacetwo" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallacetwo.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
