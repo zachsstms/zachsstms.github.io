@@ -167,15 +167,15 @@ The first step was fairly familiar---take the North Fork of Lone Pine Creek as i
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/darkmovingtorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingbackdownthevalley.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/darkmovingtorussell.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/onthewaytorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingbackdownthevalley.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+
 </div>
 <div class="caption">
     Making my way up to the Russell-Carillon pass!
