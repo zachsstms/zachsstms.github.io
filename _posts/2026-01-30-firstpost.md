@@ -163,7 +163,7 @@ Loops have captivated mountain enthusiasts for years, largely because they offer
 
 So, obviously, I was incredibly excited for this route!
 
-The first step was fairly familiar---take the North Fork of Lone Pine Creek as if I was returning to the Mountaineer's route on Whitney before branching North at Upper Boy Scout Lake to gain the Russell-Carillon pass. Attaining the pass was challenging, as the trail devolved into 1500' of loose sand and rock.
+The first step was fairly familiar: take the North Fork of Lone Pine Creek as if I was returning to the Mountaineer's route on Whitney before branching North at Upper Boy Scout Lake to gain the Russell-Carillon pass. Attaining the pass was challenging, as the trail devolved into 1500' of loose sand and rock.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -181,5 +181,52 @@ The first step was fairly familiar---take the North Fork of Lone Pine Creek as i
     Making my way up to the Russell-Carillon pass!
 </div>
 
+The views from the pass were gorgeous in the first light, with Mt. Carillon, Mt. Tunnabora, and The Cleaver forming a glaring contrast with the emerging sun. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/tunnabora.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Tulainyo_lake.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Carillon, The Cleaver, Tunnabora, and Tulainyo Lake 
+</div>
+
+From the pass, there was some light ridge scrambling to the summit of Russell. This section had some exposure, but there were solid holds, and I would classify it as primarily class 3 with a dusting of class 4 hiking. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellfinalridge.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ridgetorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Ridge to the summit of Mt. Russell from the Russel-Carillon pass. 
+</div>
+
+I reached the summit at around `7:00 AM`, with absolutely stunning views of Mt. Whitney, the Kern Valley and the Wallace lakes region. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    The view from the summit of Mt. Russell.
+</div>
 
 `Blog in Progress, you're too early!`
