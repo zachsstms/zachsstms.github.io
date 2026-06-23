@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: A Long Day on the Eastside (aren't they all) 
-date: 2025-01-27 11:59:00-0700
+date: 2026-01-10 11:59:00-0700
 description: A creative linkup and some thoughts on ego in the mountains
 tags: mountains philosophy
 categories: mountain-adventures
@@ -50,7 +50,7 @@ A few months ago, I found myself in an uncomfortable yet familiar position: roll
     </div>
 </div>
 <div class="caption">
-    Well, I suppose all things considered the views were slightly worse than expected...Still an epic outing!
+    Well, I suppose all things considered the views were slightly worse than expected...still an epic outing!
 </div>
 The boundary peak wilderness is pretty remote, and, like the rest of the region, is more comfortable with a burly high clearance vehicle---not necessarily my Mom's 2008 Toyota Highlander. Nonetheless, after a successful day out, I drove across the border into the Owens valley, deciding to stage myself for an attempt at Mt. Pinchot the following morning. 
 
@@ -68,7 +68,7 @@ I ended up sleeping on the road headed up to [Taboose Pass](https://www.fs.usda.
 </div>
 
 ### Heading back
-After a fun adventure on my way out to school, I returned to Whitney with the [Cal Poly Alpine Club](https://www.instagram.com/calpolyalpineclub/). I was quite excited to tag along, mainly because the group was attempting the [Mountaineer's Route](https://summitborn.com/mount-whitney-mountaineers-route-guide/), which branches off to the north fork of lone pine creek, rather than follow lone pine creek itself---which is what I had done previously on the ["soft and succulent route."](https://mikeygribbin.com/bloglist/2018/8/1/mt-whitney-summit-via-the-mountaineers-route-the-ultimate-hike)
+After a fun adventure on my way out to school, I returned to Whitney with the [Cal Poly Alpine Club](https://www.instagram.com/calpolyalpineclub/) in November of that year. I was quite excited to tag along, mainly because the group was attempting the [Mountaineer's Route](https://summitborn.com/mount-whitney-mountaineers-route-guide/), which branches off to the north fork of lone pine creek, rather than follow lone pine creek itself---which is what I had done previously on the ["soft and succulent route."](https://mikeygribbin.com/bloglist/2018/8/1/mt-whitney-summit-via-the-mountaineers-route-the-ultimate-hike)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -105,7 +105,7 @@ The main couloir is not super tricky per-se, although it's bascially a huge funn
 
 ## A Romantic Line 
 
-With a few successful adventures on Whitney, a year later I had ambitions for a different vision. I found myself driving back to Lone Pine with the Alpine Club, although, this time Whitney was not the focus. 
+With a few successful adventures on Whitney, a year later (as a Junior) I had ambitions for a different vision. I found myself driving back to Lone Pine with the Alpine Club, although, this time Whitney was not the focus. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -157,8 +157,29 @@ This basin is incredibly remote, largely because the trail approach is from [She
     The route! One of my more aesthetic mountain linkups!
 </div>
 
-I think the holy grail of mountain linkups are `loops.` Man, they're the coolest. 
+I think the holy grail of mountain linkups are `loops`. Man, they're the coolest. 
 
-Loops 
+Loops have captivated mountain enthusiasts for years, largely because they offer continous exploration and adventure in one outing. To be fair, out-and-backs are the standard when it comes to mountaineering, but they offer less adventure, as the return route is already well-known from the ascent. Moreover, loops often have this interesting part in which you get so remote such that the path of least resistance home is to...finish the loop. To the certain kind of person, this remote demand and fear is a little addicting. 
+
+So, obviously, I was incredibly excited for this route!
+
+The first step was fairly familiar---take the North Fork of Lone Pine Creek as if I was returning to the Mountaineer's route on Whitney before branching North at Upper Boy Scout Lake to gain the Russell-Carillon pass. Attaining the pass was challenging, as the trail devolved into 1500' of loose sand and rock.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/darkmovingtorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingbackdownthevalley.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/onthewaytorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    
+</div>
+<div class="caption">
+    Making my way up to the Russell-Carillon pass!
+</div>
+
 
 `Blog in Progress, you're too early!`
