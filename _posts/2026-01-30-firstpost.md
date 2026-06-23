@@ -167,13 +167,13 @@ The first step was fairly familiar: take the North Fork of Lone Pine Creek as if
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/darkmovingtorussell.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/darkmovingtorussell.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/onthewaytorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/onthewaytorussel.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingbackdownthevalley.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingbackdownthevalley.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 
 </div>
@@ -185,10 +185,10 @@ The views from the pass were gorgeous in the first light, with Mt. Carillon, Mt.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Tulainyo_lake.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Tulainyo_lake.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/tunnabora.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/tunnabora.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -199,10 +199,10 @@ From the pass, there was some light ridge scrambling to the summit of Russell. T
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellfinalridge.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellfinalridge.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ridgetorussel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/ridgetorussel.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -213,23 +213,101 @@ I reached the summit at around `7:00 AM`, with absolutely stunning views of Mt. 
 
 <div class="row mt-3">
     <div class="col-6 col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-6 col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russelsummit2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russelsummit2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-6 col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit3.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-6 col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit4.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     The view from the summit of Mt. Russell.
 </div>
+
+After a nice long snack at the summit of Russell and a wave to Alpine Club members on Whitney, I decided to traverse the ridge to Mt. Morgenson (shown in the bottom right in the images above). This ultimately proved to be a bit of a blunder, as the ridge proved immensely technical and exposed---hitting my efficiency hard early on in the route (it took me `three hours` to move less than a `mile`). In hindsight, It would have been better to just instantly drop town to [Tulainyo Lake](https://en.wikipedia.org/wiki/Tulainyo_Lake), which would have saved significant time and energy. Yet, I am a sucker for a cool looking ridge, so ended up pushing for Morgenson. Looking back, I suspect very few people have summitted Morgenson, which could mean that I am the first person in history to complete this specific loop---a useless but kinda cool thought. 
+
+The Morgenson ridge was pretty tricky with some ass-clenching exposure and ice dwelling in the rock cracks. I committed though and it became easier to finish the ridge and summit Morgenson than bailing down the cliff. I don't know who the heck is going to read this blog post. But, if for whatever reason you are looking to do a similar route, I feel obligated to mention that the ridge was 4th class the entire time, with 5th class sections to navigate around [gendarmes](https://en.wikipedia.org/wiki/Gendarme_(mountaineering)). Looking back, the ridge was only fun after I had completed it---a "one and done."
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/morgensonridge2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/moregensonridge1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Ridge to the summit of Mt. Morgenson from Mt. Russell. 
+</div>
+Yet, the summit views from Morgenson did not disappoint. 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/topofmorgenson.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneyfrommorgenson.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Summit views from the little-known Mt. Morgenson 
+</div>
+
+Unfortunately, it was then `10:00` AM, and boy was I behind schedule. The descent off Morgenson was actually pretty gradual, but was an annoying mixture of autumn snow and rock scree. I ended up stumbling and glissading down to the Wallace basin. The adventure was strangely just beginning, despite being out for 6 hours. 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Morgensondescent.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Descent off Mt. Morgenson.
+</div>
+The Wallace basin was crucial for refilling my water, refueling, and radioing to the rest of the club, which was probably starting their descent off Mt. Whitney.  
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallace1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallacetwo" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Incredible solitude and jaw-dropping beauty in the Wallace Lakes region. 
+</div>
+This point was basically the "go/no go." In other words, descending more into the embrace of the Kern valley would result in a mandatory completion of the full planned loop---retreating back to the Russell-Carillon pass would be more difficult than wrapping into Whitney creek. Excited and a little scared, I elected to continue, trudging deeper into the valley. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallace1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallacetwo.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Views towards the elusive [Mt. Young](https://en.wikipedia.org/wiki/Mount_Young_(California)) and the beckoning Kern valley. 
+</div>
+
+Remember the remoteness of the Sierra I was talking about before? Yeah, I felt it first hand. 
+
+I remember it being freaky and cool simultaneously. It turns out that the Wallace Lakes trail is shown on GPS maps without really being a trail. I contoured generally towards the PCT, and merged with some faint deer and hiker trails before stumbling onto the PCT. I felt extremely alone and adventurous. Also, in hindsight, I don't think I had bear spray, which is pretty dumb for a solo runner 15 miles away from the nearest person in Autumn. But fortunately, I didn't see any threatening wildlife. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/pctmerge.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Merging with the PCT---the first trail in hours and the most remote spot on the loop! 
+</div>
+
+After chugging down most of the food I had left, I started the long yet efficient push on the PCT trail to get myself back. The PCT trail is of course incredibly beautiful and well-made, but my tired legs and water-logged shoes resulted in a long slog to the Whitney Creek ranger station. 
 
 
 
