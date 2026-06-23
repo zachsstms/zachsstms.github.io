@@ -26,7 +26,7 @@ First blog post! Let's see how this goes...🤞
     </div>
 </div>
 <div class="caption">
-    Most epic days in the Sierra Nevada begin in the dark and cold. 
+    Most epic days in the Sierra Nevada begin in the dark and cold.<d-footnote>Click on the images to enlarge them!</d-footnote> 
 </div>
 
 ## The backstory 
@@ -185,10 +185,10 @@ The views from the pass were gorgeous in the first light, with Mt. Carillon, Mt.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/tunnabora.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Tulainyo_lake.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Tulainyo_lake.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/tunnabora.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -212,21 +212,25 @@ From the pass, there was some light ridge scrambling to the summit of Russell. T
 I reached the summit at around `7:00 AM`, with absolutely stunning views of Mt. Whitney, the Kern Valley and the Wallace lakes region. 
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-6 col-md-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="col-6 col-md-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russelsummit2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+</div>
+<div class="row mt-3">
+    <div class="col-6 col-md-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-     <div class="col-sm mt-3 mt-md-0">
+    <div class="col-6 col-md-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/russellsummit4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     The view from the summit of Mt. Russell.
 </div>
+
+
 
 `Blog in Progress, you're too early!`
