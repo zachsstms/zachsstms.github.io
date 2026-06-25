@@ -231,7 +231,7 @@ I reached the summit at around `7:00 AM`, with absolutely stunning views of Mt. 
     The view from the summit of Mt. Russell.
 </div>
 
-After a nice long snack at the summit of Russell and a wave to Alpine Club members on Whitney, I decided to traverse the ridge to Mt. Morgenson (shown in the bottom right in the images above). This ultimately proved to be a bit of a blunder, as the ridge proved immensely technical and exposed---hitting my efficiency hard early on in the route (it took me `three hours` to move less than a `mile`). In hindsight, It would have been better to just instantly drop town to [Tulainyo Lake](https://en.wikipedia.org/wiki/Tulainyo_Lake), which would have saved significant time and energy. Yet, I am a sucker for a cool looking ridge, so ended up pushing for Morgenson. Looking back, I suspect very few people have summitted Morgenson, which could mean that I am the first person in history to complete this specific loop---a useless but kinda cool thought. 
+After a nice long snack at the summit of Russell and a wave to Alpine Club members on Whitney, I decided to traverse the ridge to Mt. Morgenson (shown in the bottom right in the images above). This ultimately proved to be a bit of a blunder, as the ridge proved immensely technical and exposed---hitting my efficiency hard early on in the route (it took me `three hours` to move less than a `mile`). In hindsight, It would have been better to just instantly drop down to [Tulainyo Lake](https://en.wikipedia.org/wiki/Tulainyo_Lake), which would have saved significant time and energy. Yet, I am a sucker for a cool looking ridge, so ended up pushing for Morgenson. Looking back, I suspect very few people have summitted Morgenson, which could mean that I am one of the first people to complete this specific loop---a useless but kinda cool thought.<d-footnote>This is a pretty natural loop, so I'm sure that it has been done before, but I couldn't find any evidence. The Morgenson ridge was not fun, so I imagine any attempts were done by mistake---same as me 😂</d-footnote>
 
 The Morgenson ridge was pretty tricky with some ass-clenching exposure and ice dwelling in the rock cracks. I committed though and it became easier to finish the ridge and summit Morgenson than bailing down the cliff. I don't know who the heck is going to read this blog post. But, if for whatever reason you are looking to do a similar route, I feel obligated to mention that the ridge was 4th class the entire time, with 5th class sections to navigate around [gendarmes](https://en.wikipedia.org/wiki/Gendarme_(mountaineering)). Looking back, the ridge was only fun after I had completed it---a "one and done."
 
@@ -259,7 +259,7 @@ Yet, the summit views from Morgenson did not disappoint.
     Summit views from the little-known Mt. Morgenson 
 </div>
 
-Unfortunately, it was then `10:00` AM, and boy was I behind schedule. The descent off Morgenson was actually pretty gradual, but was an annoying mixture of autumn snow and rock scree. I ended up stumbling and glissading down to the Wallace basin. The adventure was strangely just beginning, despite being out for 6 hours. 
+Unfortunately, it was then `10:00 AM`, and boy was I behind schedule. The descent off Morgenson was actually pretty gradual, but was an annoying mixture of autumn snow and rock scree. I ended up stumbling and glissading down to the Wallace basin. The adventure was strangely just beginning, despite being out for 6 hours. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/Morgensondescent.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -291,12 +291,12 @@ This point was basically the "go/no go." In other words, descending more into th
     </div>
 </div>
 <div class="caption">
-    Views towards the elusive [Mt. Young](https://en.wikipedia.org/wiki/Mount_Young_(California)) and the beckoning Kern valley. 
+    Views towards the elusive Mt. Young and the beckoning Kern valley. 
 </div>
 
 Remember the remoteness of the Sierra I was talking about before? Yeah, I felt it first hand. 
 
-I remember it being freaky and cool simultaneously. It turns out that the Wallace Lakes trail is shown on GPS maps without really being a trail. I contoured generally towards the PCT, and merged with some faint deer and hiker trails before stumbling onto the PCT. I felt extremely alone and adventurous. Also, in hindsight, I don't think I had bear spray, which is pretty dumb for a solo runner 15 miles away from the nearest person in Autumn. But fortunately, I didn't see any threatening wildlife. 
+I remember it being freaky and cool simultaneously. It turns out that the Wallace Lakes trail is shown on GPS maps without really being a trail. I contoured generally towards the PCT through the forest (fortunately the bush was sparse, and I could run without bushwhacking) and merged with some faint deer and hiker trails before stumbling onto the PCT. I felt extremely alone and adventurous. Also, in hindsight, I don't think I had bear spray, which is pretty dumb for a solo runner 15 miles away from the nearest person in Autumn. But fortunately, I didn't see any threatening wildlife. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -307,7 +307,9 @@ I remember it being freaky and cool simultaneously. It turns out that the Wallac
     Merging with the PCT---the first trail in hours and the most remote spot on the loop! 
 </div>
 
-After chugging down most of the food I had left, I started the long yet efficient push on the PCT trail to get myself back. The PCT trail is of course incredibly beautiful and well-made, but my tired legs and water-logged shoes resulted in a long slog to the Whitney Creek ranger station. 
+After chugging down most of the food I had left, I started the long yet efficient push on the PCT trail to get myself back. The PCT trail is of course incredibly beautiful and well-made, but my tired legs and water-logged shoes resulted in a long slog to the Whitney Creek ranger station.
+
+The trail was long and beautiful, making me consider a thru-hike in the future! The PCT held a wavy contour around `Peak 12800`, before offering the fork to the Crabtree meadows and Whitney Creek drainage. I stopped to refill water near the Ranger Station and continued up towards Guitar Lake. This was a nice gradual ascent, but I could feel the fatigue 
 
 
 
