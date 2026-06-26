@@ -311,9 +311,39 @@ After chugging down most of the food I had left, I started the long yet efficien
 
 The trail was long and beautiful, making me consider a thru-hike in the future! The PCT held a wavy contour around `Peak 12800`, before offering the fork to the Crabtree meadows and Whitney Creek drainage. I stopped to refill water near the Ranger Station and continued up towards Guitar Lake. This was a nice gradual ascent, but I could feel the fatigue accumulating in the bones. 
 
-I was fearing the dark, so I forced a brisk pace up until the switchbacks up to the trail crest saddle. At this point, I was nearing `10,000` feet of vertical gain and `15` hours of travel, and I could sense the altitude stripping my resolve apart. 
+I was fearing the dark, so I forced a brisk pace up until the switchbacks up to the trail crest saddle. At this point, I was nearing `10,000` feet of vertical gain and `15` hours of travel, and I could sense the altitude stripping my resolve apart. With some long breaks and light cursing, I made it to the saddle. The descent down the normal Whitney trail was pretty smooth, there was some snow in the 99 switchbacks that made microspikes necessary, but remained strong enough to run. 
 
+The darkness was an expected greeting to trail camp, where I linked back up with some Alpine Club members (man they must have been moving slow haha). We slogged the rest of the way down Whitney to the car together.
 
+For me, it was an `18` hour day with `30` miles and `10k` vertical gain. It was pretty rough haha. Yet, to this day, it remains one of the best linkups I have ever done. 
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingdownintothekernfinal.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/sunset.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Climbing up to trail crest, far too tired to summit Mt. Whitney, but enough energy to get myself down.
+</div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneysunset.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/finaldescent.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Only downhill from here yo!
+</div>
+
+# Ego in the Mountains
+
+Despite this being one of my more treasured times in the mountains, the experience did force me to grapple with some thoughts regargarding the philosophy for why the outing was so fulfilling to me. 
 `Blog in Progress, you're too early!`
