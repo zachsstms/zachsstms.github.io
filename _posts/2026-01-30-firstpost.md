@@ -321,8 +321,8 @@ For me, it was an `18` hour day with `30` miles and `10k` vertical gain. It was 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/lookingdownintothekernfinal.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/sunset.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -334,8 +334,8 @@ For me, it was an `18` hour day with `30` miles and `10k` vertical gain. It was 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/whitneysunset.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/finaldescent.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -343,7 +343,19 @@ For me, it was an `18` hour day with `30` miles and `10k` vertical gain. It was 
     Only downhill from here yo!
 </div>
 
-# Ego in the Mountains
+# Some thoughts on Ego
 
-Despite this being one of my more treasured times in the mountains, the experience did force me to grapple with some thoughts regargarding the philosophy for why the outing was so fulfilling to me. 
+Despite this being one of my more treasured times in the mountains, the experience did force me to grapple with some thoughts regarding the philosophy for why the outing was so fulfilling to me. What makes me want to pursue loops like these? For most mountain enthusiasts, they'll assure you that the pursuit of adventures in the mountains is inherrently intrinsic---a self-actualizing venture in which they explore their own comfort, abilities, and the beautiful lanscape. But is this realistic in the modern alpinism/outdoor recreation atmosphere? 
+
+There was an interesting film I watched a few years ago called the [Race to the Summit](https://www.imdb.com/title/tt28995566/), which wrestled with the question of motivation for such extreme outings. There was an immense pressure to perform well, which, in the alpinism context, either means novel ideas (first ascents, ridge linkups, traverses, etc.) or speed (fastest known times aka FKTS). In the commercial sphere, athletes feel obligated to attain these milestones to gain or maintain sponsorships, recognition, and validation for their excursions. Ultimately, extrinsic motivation is non-negligible in mountain sport. This urge to demonstrate our capabilities for validation forms the entirety of the business model of apps such as Strava, or is even the reason for blogs such as these 🤷. I like to think that because I am an amateur, I don't have the same proportion of extrinsic motivation for my adventures compared to others. However, on the PCT, I found myself comparing my adventure to others. I remember thinking: "My slow pace is ok because I'm doing more than the others in the Alpine Club."
+
+Yeesh. 
+
+Introspectively, I felt subconscious about my pace, or the fact that I had not summitted Mt. Whitney (which I believed I would be able to). I enforced contrived, human-conceived metrics about how to best approach or move through terrain that has existed for billions of years in such grandeur. Sure, deep down I know that I wanted to explore the regions on the loop, and the adventure indeed proved intrinsically satisfactory. However, I can't help but think that part of the outing was inspired by the validation I imagined I would receive. 
+
+The reason my alpine motivations bother me is that they have a real influence on risk management. 
+
+Realistically, would I have attempted the ridge between Morgenson and Russell without Strava, other people, or validation? Maybe. But it can be hard to discern whether the reason you do something is because you are intrinsically drawn to it, or whether you feel extrinsically obligated. 
+
+
 `Blog in Progress, you're too early!`
