@@ -284,10 +284,10 @@ This point was basically the "go/no go." In other words, descending more into th
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallace1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/droppingintothekern.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/wallacetwo.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/gazingtowardsmtyoung.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -309,7 +309,10 @@ I remember it being freaky and cool simultaneously. It turns out that the Wallac
 
 After chugging down most of the food I had left, I started the long yet efficient push on the PCT trail to get myself back. The PCT trail is of course incredibly beautiful and well-made, but my tired legs and water-logged shoes resulted in a long slog to the Whitney Creek ranger station.
 
-The trail was long and beautiful, making me consider a thru-hike in the future! The PCT held a wavy contour around `Peak 12800`, before offering the fork to the Crabtree meadows and Whitney Creek drainage. I stopped to refill water near the Ranger Station and continued up towards Guitar Lake. This was a nice gradual ascent, but I could feel the fatigue 
+The trail was long and beautiful, making me consider a thru-hike in the future! The PCT held a wavy contour around `Peak 12800`, before offering the fork to the Crabtree meadows and Whitney Creek drainage. I stopped to refill water near the Ranger Station and continued up towards Guitar Lake. This was a nice gradual ascent, but I could feel the fatigue accumulating in the bones. 
+
+I was fearing the dark, so I forced a brisk pace up until the switchbacks up to the trail crest saddle. At this point, I was nearing `10,000` feet of vertical gain and `15` hours of travel, and I could sense the altitude stripping my resolve apart. 
+
 
 
 
