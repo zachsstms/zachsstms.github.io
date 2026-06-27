@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: "<em>Mostly nonsensical ramblings with a touch of insight and adventure</em>"
 
