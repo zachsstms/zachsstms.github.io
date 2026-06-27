@@ -5,5 +5,5 @@ title: Resume
 nav: true
 nav_order: 5
 cv_pdf: Current_Resume_Selzman-1.pdf # you can also use external links here
-description: <em> Note: If you are on mobile and dark mode, the embedded pdf may not show up, I recommend either clicking the <code>pdf</code> icon or switching to light mode! :metal: </em> 
+description: 
 ---
