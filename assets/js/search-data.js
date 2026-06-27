@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-resume",
+          title: "Resume",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "post-a-long-day-on-the-eastside-aren-39-t-they-all",
         
           title: "A Long Day on the Eastside (aren&#39;t they all)",
