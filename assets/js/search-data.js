@@ -102,8 +102,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-biconvex-airfoil-project",
+          title: 'Biconvex airfoil project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project2/";
