@@ -357,5 +357,8 @@ The reason my alpine motivations bother me is that they have a real influence on
 
 Realistically, would I have attempted the ridge between Morgenson and Russell without Strava, other people, or validation? Maybe. But it can be hard to discern whether the reason you do something is because you are intrinsically drawn to it, or whether you feel extrinsically obligated. 
 
+Previously in the post, I referenced the number of `14ers` I had done during another outing in the Owens Valley. The mainstream practice of recording the number of 14000+ ft mountains originated in Colorado, which 
+
+
 
 `Blog in Progress, you're too early!`
