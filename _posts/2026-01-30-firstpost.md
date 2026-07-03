@@ -14,9 +14,6 @@ toc:
   - name: A Romantic Line
   - name: Some Thoughts on Ego 
 ---
-
-First blog post! Let's see how this goes...🤞
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Blogposts/Mtwhitneyloopblog_firstone/dark.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -337,7 +334,7 @@ I was fearing the dark, so I forced a brisk pace up until the switchbacks up to 
     Only downhill from here yo!
 </div>
 
-The darkness was an expected greeting to trail camp, where I linked back up with some Alpine Club members (man they must have been moving slow haha). We slogged the rest of the way down Whitney to the car together.
+The darkness was an expected greeting to trail camp, where I linked back up with some Alpine Club members. We slogged the rest of the way down Whitney to the car together.
 
 For me, it was an `18` hour day with `30` miles and `10k` vertical gain. It was pretty rough haha. Yet, to this day, it remains one of the best linkups I have ever done. 
 
@@ -345,19 +342,21 @@ For me, it was an `18` hour day with `30` miles and `10k` vertical gain. It was 
 
 Despite this being one of my more treasured times in the mountains, the experience did force me to grapple with some thoughts regarding the philosophy for why the outing was so fulfilling to me. What makes me want to pursue loops like these? For most mountain enthusiasts, they'll assure you that the pursuit of adventures in the mountains is inherrently intrinsic---a self-actualizing venture in which they explore their own comfort, abilities, and the beautiful lanscape. But is this realistic in the modern alpinism/outdoor recreation atmosphere? 
 
-There was an interesting film I watched a few years ago called the [Race to the Summit](https://www.imdb.com/title/tt28995566/), which wrestled with the question of motivation for such extreme outings. There was an immense pressure to perform well, which, in the alpinism context, either means novel ideas (first ascents, ridge linkups, traverses, etc.) or speed (fastest known times aka FKTS). In the commercial sphere, athletes feel obligated to attain these milestones to gain or maintain sponsorships, recognition, and validation for their excursions. Ultimately, extrinsic motivation is non-negligible in mountain sport. This urge to demonstrate our capabilities for validation forms the entirety of the business model of apps such as Strava, or is even the reason for blogs such as these 🤷. 
+There was an interesting film I watched a few years ago called the [Race to the Summit](https://www.imdb.com/title/tt28995566/), which wrestled with the question of motivation for such extreme outings. There was an immense pressure to perform well, which, in the alpinism context, either means novel ideas (first ascents, ridge linkups, traverses, etc.) or speed (fastest known times aka FKTS). In the commercial sphere, athletes feel obligated to attain these milestones to gain or maintain sponsorships, recognition, and validation for their excursions. Ultimately, extrinsic motivation is non-negligible in commercial mountain sport. This urge to demonstrate our capabilities for validation forms the entirety of the business model of apps such as Strava, or is even the reason for blogs such as these 🤷. 
 
-I like to think that because I am an amateur, I don't have the same proportion of extrinsic motivation for my adventures compared to others. However, on the PCT, I found myself comparing my adventure to others. I remember thinking: "My slow pace is ok because I'm doing more than the others in the Alpine Club."
+I like to think that because I am an amateur, I don't have the same proportion of extrinsic motivation for my adventures compared to others. However, on the PCT, I found myself comparing my adventure. I remember thinking: "My slow pace is ok because I'm doing more than what others may be doing."
 
 Yeesh. 
 
-Introspectively, I felt subconscious about my pace, or the fact that I had not summitted Mt. Whitney (which I believed I would be able to). I enforced contrived, human-conceived metrics about how to best approach or move through terrain that has existed for billions of years in such grandeur. Sure, deep down I know that I wanted to explore the regions on the loop, and the adventure indeed proved intrinsically satisfactory. However, I can't help but think that part of the outing was inspired by the validation I imagined I would receive. 
+Introspectively, I felt subconscious about my pace, or the fact that I had not summitted Mt. Whitney (which I believed I would be able to). I enforced contrived, human-conceived metrics about how to best approach or move through terrain that has existed for billions of years in such grandeur. Sure, deep down I know that I wanted to explore the regions on the loop for the sole sake of exploration and discovery, and the adventure indeed proved intrinsically satisfactory. However, I can't help but think that part of the outing was inspired by the validation I imagined I would receive. 
 
 The reason my alpine motivations bother me is that they have a real influence on risk management. 
 
 Realistically, would I have attempted the ridge between Morgenson and Russell without Strava, other people, or validation? Maybe. But it can be hard to discern whether the reason you do something is because you are intrinsically drawn to it, or whether you feel extrinsically obligated. 
 
-Previously in the post, I referenced the number of `14ers` I had done during another outing in the Owens Valley. The mainstream practice of recording the number of 14000+ ft mountains originated in Colorado, which 
+Previously in the post, I referenced the number of `14ers` I had done during another outing in the Owens Valley. The mainstream practice of recording the number of 14000+ ft mountains originated in Colorado, which functions as a checklist for most hikers seeking to experience the state. However, after having spent the last summer in Colorado---dealing with the crowds seeking to "tick a box," I had to reconcile with my personal ambitions for climbing said mountains. 
+
+For me, I decided that the mountains were too meaningful to be relegated to the likes of a checklist. They _had_ to mean more. I needed to be confident that I would be pursing risky endeavors because that is what _I_ wanted to personally accomplish.  
 
 
 

@@ -8,7 +8,7 @@ category: Academic/Work
 giscus_comments: false
 ---
 
-This project was completed for _AERO 405: Supersonic and Hypersonic Aerodynamics_. It was a pretty short and concise project that compares the lift, drag, and pitching moment about the leading edge for the GU2 airfoil at `Mach=2.13` for a range of angles of attack. The results were compared with respect to linearized theory, Busemann's method, shock-expansion theory, and wind tunnel results. It was an enjoyable project with code provided below. 
+This project was completed for _AERO 405: Supersonic and Hypersonic Aerodynamics_. It was a pretty short and concise project that compares the lift, drag, and pitching moment about the leading edge for the GU2 airfoil at `Mach=2.13` for a range of angles of attack. The results were compared with respect to linearized theory, Busemann's method, shock-expansion theory, and wind tunnel results. It was an enjoyable project with code provided below. _Note: If you're checking this out on mobile. The embedded `pdf` gets a little sluggish. I suggest just clicking the `Download Report PDF` button._
 
 <!-- Download Button Container -->
 <div class="text-center mt-3 mb-4">
