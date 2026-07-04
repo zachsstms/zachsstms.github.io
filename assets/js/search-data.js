@@ -129,13 +129,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/zach-s-87ba23290", "_blank");
         },
       },{
-        id: 'social-strava',
-        title: 'Strava',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.strava.com/athletes/72598941", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
