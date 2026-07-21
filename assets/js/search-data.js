@@ -97,6 +97,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-airbrakes-material-selection",
+          title: 'Airbrakes Material Selection',
+          description: "Full material selection for rocket airbrakes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Airbrakes_Materials_selection/";
             },},{id: "projects-biconvex-airfoil-project",
           title: 'Biconvex airfoil project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
@@ -104,7 +109,7 @@ ninja.data = [{
               window.location.href = "/projects/compressible_airfoils/";
             },},{id: "projects-spatula-selection",
           title: 'spatula selection',
-          description: "In case you needed help selecting a material for a spatula",
+          description: "In case you needed a materials selection analysis for a spatula",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spatula_selection/";
             },},{id: "projects-carbon-fiber-naca-0012",
