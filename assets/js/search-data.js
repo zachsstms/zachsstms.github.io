@@ -102,8 +102,8 @@ ninja.data = [{
           description: "Comprehensive material selection analysis for rocket airbrakes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Airbrakes_Materials_selection/";
-            },},{id: "projects-classic-cylinder-project",
-          title: 'Classic Cylinder Project',
+            },},{id: "projects-the-usual-cylinder-project",
+          title: 'The Usual Cylinder Project',
           description: "Unsteady Flow around an Infinite Cylinder",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CylinderProject/";
