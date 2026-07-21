@@ -3,7 +3,7 @@ layout: page
 title: Airbrakes Material Selection
 description: Comprehensive material selection analysis for rocket airbrakes
 img: assets/img/Rocket Airbrakes.jpg
-importance: 3
+importance: 2
 category: Academic/Work
 ---
 
