@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Some stuff I&#39;ve been working on (page is a work in progress)",
+          description: "Some stuff I&#39;ve done...with varying levels of both pride and effort (page is a work in progress)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -103,12 +103,12 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/Airbrakes_Materials_selection/";
             },},{id: "projects-biconvex-airfoil-project",
-          title: 'Biconvex airfoil project',
+          title: 'Biconvex Airfoil Project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
           section: "Projects",handler: () => {
               window.location.href = "/projects/compressible_airfoils/";
             },},{id: "projects-spatula-selection",
-          title: 'spatula selection',
+          title: 'Spatula Selection',
           description: "In case you needed a materials and manufacturing analysis for a spatula",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spatula_selection/";
