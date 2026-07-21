@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [Academic/Work, Personal]
 horizontal: false
 ---
-
+_Note: Most of my projects here will be in `pdf` form. This is because I have limited faith in the robustness of this site 😂_
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

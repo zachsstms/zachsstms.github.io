@@ -2,8 +2,8 @@
 layout: page
 title: Carbon Fiber NACA 0012 
 description: Analyzing and manufacturing a carbon fiber wing for Aerospace Structures II
-img: assets/img/wingcoverimage.webp
-importance: 1
+img: assets/img/carbonwing.jpg
+importance: 3
 category: Academic/Work
 related_publications: false
 ---
