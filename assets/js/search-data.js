@@ -57,12 +57,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-carbon-fiber-naca-0012",
-          title: 'Carbon Fiber NACA 0012',
-          description: "Analyzing and manufacturing a carbon fiber wing for Aerospace Structures II",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -106,7 +101,17 @@ ninja.data = [{
           title: 'Biconvex airfoil project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project2/";
+              window.location.href = "/projects/compressible_airfoils/";
+            },},{id: "projects-spatula-selection",
+          title: 'spatula selection',
+          description: "In case you needed help selecting a material for a spatula",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spatula_selection/";
+            },},{id: "projects-carbon-fiber-naca-0012",
+          title: 'Carbon Fiber NACA 0012',
+          description: "Analyzing and manufacturing a carbon fiber wing for Aerospace Structures II",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wing_carbon/";
             },},{
         id: 'social-email',
         title: 'email',
