@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biconvex airfoil project
+title: Biconvex Airfoil Project
 description: Comparing supersonic airfoil analysis methods for the GU2 airfoil
 img: assets/img/Biconvexintroimage.webp
 importance: 2

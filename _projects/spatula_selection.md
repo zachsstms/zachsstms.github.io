@@ -1,6 +1,6 @@
 ---
 layout: page
-title: spatula selection
+title: Spatula Selection
 description: In case you needed a materials and manufacturing analysis for a spatula
 img: assets/img/spatulas.jpg
 importance: 1

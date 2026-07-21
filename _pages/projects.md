@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some stuff I've been working on (page is a work in progress)
+description: Some stuff I've done...with varying levels of both pride and effort (page is a work in progress)
 nav: true
 nav_order: 2
 display_categories: [Academic/Work, Personal]
