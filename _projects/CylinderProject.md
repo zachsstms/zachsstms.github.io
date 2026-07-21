@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Classic Cylinder Project
+title: The Usual Cylinder Project
 description: Unsteady Flow around an Infinite Cylinder
-img: assets/img/Rocket Airbrakes.jpg
+img: assets/img/cylinderpicture.png
 importance: 1
 category: Academic/Work
 ---
@@ -12,8 +12,10 @@ category: Academic/Work
     </div>
 </div>
 <div class="caption">
-    Flow at $Re=500$
+    Flow around an infinite cylinder at $Re=500$
 </div>
+
+`This one is in progress`
 
 _Note: If you're checking this out on mobile, the embedded `pdf` gets a little sluggish. I suggest just clicking the `Download Report PDF` button._
 <!-- Download Button Container -->
