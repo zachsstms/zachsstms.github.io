@@ -99,7 +99,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-airbrakes-material-selection",
           title: 'Airbrakes Material Selection',
-          description: "Full material selection for rocket airbrakes",
+          description: "Comprehensive material selection analysis for rocket airbrakes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Airbrakes_Materials_selection/";
             },},{id: "projects-biconvex-airfoil-project",
@@ -109,7 +109,7 @@ ninja.data = [{
               window.location.href = "/projects/compressible_airfoils/";
             },},{id: "projects-spatula-selection",
           title: 'spatula selection',
-          description: "In case you needed a materials selection analysis for a spatula",
+          description: "In case you needed a materials and manufacturing analysis for a spatula",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spatula_selection/";
             },},{id: "projects-carbon-fiber-naca-0012",
