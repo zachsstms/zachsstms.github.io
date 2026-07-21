@@ -102,6 +102,11 @@ ninja.data = [{
           description: "Comprehensive material selection analysis for rocket airbrakes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Airbrakes_Materials_selection/";
+            },},{id: "projects-classic-cylinder-project",
+          title: 'Classic Cylinder Project',
+          description: "Unsteady Flow around an Infinite Cylinder",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CylinderProject/";
             },},{id: "projects-biconvex-airfoil-project",
           title: 'Biconvex Airfoil Project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
