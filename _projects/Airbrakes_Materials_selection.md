@@ -3,11 +3,11 @@ layout: page
 title: Airbrakes Material Selection
 description: Comprehensive material selection analysis for rocket airbrakes
 img: assets/img/Rocket Airbrakes.jpg
-importance: 1
+importance: 3
 category: Academic/Work
 ---
 
-This project was completed for _Mate 300: Materials Selection_ with [a friend.](https://www.linkedin.com/in/metztli-singha-a490b9233/) The goal was to perform a full material, cost, and environmental analysis of an engineering design relevant to other coursework/clubwork. Below is both a presenation and full report. 
+This project was completed for _Mate 300: Materials Selection_ with [a friend.](https://www.linkedin.com/in/metztli-singha-a490b9233/) The goal was to perform a full material, cost, and environmental analysis of an engineering design relevant to other coursework/clubwork. We ended up choosing to perform a materials selection study for the airbrakes on the Cal Poly Space Systems amateur rocket. Below is both a presenation and full report. 
 
  _Note: If you're checking this out on mobile, the embedded `pdf` gets a little sluggish. I suggest just clicking the `Download Report PDF` button._
 
