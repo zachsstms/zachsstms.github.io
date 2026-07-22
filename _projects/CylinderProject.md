@@ -12,7 +12,7 @@ category: Academic/Work
     </div>
 </div>
 <div class="caption">
-    Flow around an infinite cylinder at $Re=500$
+    Flow around an infinite cylinder at $Re=1000$
 </div>
 
 `This one is in progress`
