@@ -104,7 +104,7 @@ ninja.data = [{
               window.location.href = "/projects/Airbrakes_Materials_selection/";
             },},{id: "projects-the-usual-ish-cylinder-project",
           title: 'The Usual(ish) Cylinder Project',
-          description: "Unsteady Flow around an Infinite Cylinder",
+          description: "Unsteady Flow around an Infinite Cylinder...with a bit of extra effort 🤷",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CylinderProject/";
             },},{id: "projects-biconvex-airfoil-project",
