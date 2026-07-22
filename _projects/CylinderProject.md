@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Usual Cylinder Project
+title: The Usual(ish) Cylinder Project
 description: Unsteady Flow around an Infinite Cylinder
 img: assets/img/cylinderpicture.png
 importance: 1
