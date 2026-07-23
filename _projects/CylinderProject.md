@@ -14,6 +14,25 @@ category: Academic/Work
 <div class="caption">
     Flow around an infinite cylinder at $Re=1000$
 </div>
+For a Fluid Dynamics course, I looked a bit into the [Von-Kármán Vortex Street](https://en.wikipedia.org/wiki/Vortex_shedding) characteristics as a function of the Reynolds number ($Re$), which is defined by: 
+
+$$ Re=\frac{UL}{\nu} $$
+
+where $U$ and $L$ are respectively the flow velocity and geometric characteristic length and $\nu$ is the kinematic viscosity of the fluid. 
+
+The Reynolds number effectively governs the proportion of a fluid's internal forces being driven by inertia compared to viscosity. The classic example comparison is between water and honey, with water having a much larger Reynolds number. Lower reynolds number fluids are dictated by viscous force interactions, which work to dissipate turbulence in the fluid---restricting vorticity, which is defined by: 
+
+$$ \omega=\vec{\nabla} \times \vec{U} $$
+
+Where $\omega$ corresponds to a fluid's capacity to rotate (swirl). 
+
+The vortex street behind a bluff body like an infinite aspect-ratio cylinder (circle in two dimensions) is created when small perturbations to the flow manifest themselves and compound. The mathematical basis for this is given in the incompressible [Navier-Stokes](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) equation (neglecting gravity and buoyancy and body forces):
+
+$$ \begin{equation}
+\underbrace{\frac{\partial \mathbf{u}}{\partial t}}_{\text{Unsteady / Local Acceleration}} + \underbrace{(\mathbf{u} \cdot \nabla)\mathbf{u}}_{\text{Convective / Advection Term}} = \underbrace{-\frac{1}{\rho}\nabla p}_{\text{Pressure Gradient}} + \underbrace{\nu \nabla^2 \mathbf{u}}_{\text{Viscous Diffusion}}
+\end{equation}
+ $$
+
 
 `This one is in progress`
 
