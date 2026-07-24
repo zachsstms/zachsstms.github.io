@@ -17,7 +17,7 @@ category: Personal
 
 `This one is still in progress, so no judging!`
 
-In my Junior year of college for a Fluid Dynamics class, I looked a bit into the [Von-Kármán Vortex Street](https://en.wikipedia.org/wiki/Vortex_shedding) characteristics about an infinite aspect-ratio cylinder as a function of the Reynolds number $Re$, which is defined by: 
+In my Junior year of college for a Fluid Dynamics class, we had a lab in a watertunnel that featured a cylinder---introducing me to to the [Von-Kármán Vortex Street](https://en.wikipedia.org/wiki/Vortex_shedding) and how the flow characteristics about an infinite aspect-ratio cylinder change as a function of the Reynolds number $Re$, which is defined by: 
 
 $$ Re=\frac{UL}{\nu} $$
 
@@ -55,7 +55,7 @@ where $f$ is the vortex shedding frequency. The Strouhal number is implemented t
 
 ---
 
-This was the focus of the `report below`, which delves more into my new fluid simulation tool of choice (`waterlily.jl`) and the relationship between shedding behavior and Reynolds number. For the report, I used `waterlily.jl` to take snapshots of the vorticity field at a steady state, while logging a time series of the lift coefficient $C_l$. The results captured the key relationships, and are discussed in the document. It is worth noting that the $C_l$ results are slightly inaccurate. In the Appendix, you'll note that I used: 
+This was the focus of the `report below`, which delves more into my new fluid simulation tool of choice (`Waterlily.jl`) and the relationship between shedding behavior and Reynolds number. For the report, I used `Waterlily.jl` to take snapshots of the vorticity field at a steady state, while logging a time series of the lift coefficient $C_l$. The results captured the key relationships, and are discussed in the document. It is worth noting that the $C_l$ results are slightly inaccurate. In the Appendix, you'll note that I used: 
 ```Julia
 function get_forces!(sim,t)
     sim_step!(sim,t,remeasure=false)
@@ -81,6 +81,7 @@ $$ \vec{U}=U_x\hat{\imath} + U_y\hat{\jmath} + 0\hat{k} $$
 $\frac{U_y}{\|\vec{U}\|}$ is always extremely small, which is why the viscous contribution to lift is fairly negligible. 
 
 Ok. So from the perhaps confusing and brief background above, hopefully the following report makes sense: 
+
 _Note: If you're checking this out on mobile, the embedded `pdf` gets a little sluggish. I suggest just clicking the `Download Report PDF` button._
 <!-- Download Button Container -->
 <div class="text-center mt-3 mb-4">
@@ -95,17 +96,19 @@ _Note: If you're checking this out on mobile, the embedded `pdf` gets a little s
 
 ---
 
-The academic project was useful, but I wanted to extend slightly. How? Well, I wanted to observe the transient beginning to each case!
+Despite running into the limitations of `Waterlily.jl` the academic project was useful, and I quickly found myself wanting to extend slightly. How? Well, I wanted to observe the transient beginning to each case! 
 
+Let's start with lift and drag: 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/Reynolds_Grid/lift_drag_coefficients.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
-    difficult to visualize force data (improve!!)
+    Time series of $C_l$ and $C_d$ as a function of $Re$
 </div>
 
+Yeesh. There's probably a better way to show that information (_might have to click "play"_)...
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -124,3 +127,5 @@ The academic project was useful, but I wanted to extend slightly. How? Well, I w
 <div class="caption">
     The flow developing around the circle for larg(er) Re numbers
 </div>
+
+<!-- nice -->
