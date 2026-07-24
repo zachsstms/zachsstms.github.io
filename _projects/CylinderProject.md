@@ -14,6 +14,9 @@ category: Personal
 <div class="caption">
     Flow around an infinite cylinder at $Re=1000$
 </div>
+
+`This one is still in progress, so no judging!`
+
 In my Junior year of college for a Fluid Dynamics class, I looked a bit into the [Von-Kármán Vortex Street](https://en.wikipedia.org/wiki/Vortex_shedding) characteristics about an infinite aspect-ratio cylinder as a function of the Reynolds number $Re$, which is defined by: 
 
 $$ Re=\frac{UL}{\nu} $$
@@ -39,19 +42,20 @@ It is in this regime that the flow begins to show periodic oscillations, as the 
 <div class="card my-3">
   <div class="card-body">
     <p class="card-text">
-      The takeaway? Flow behind a bluff body like a circle sheds vortices periodically. The pattern gets larger until it encounters resistance by the freestream flow coming in. 
+      The takeaway? Flow behind a bluff body like a circle sheds vortices periodically. The pattern exacerbates until it encounters resistance by the freestream flow coming in. 
     </p>
   </div>
 </div>
 
-Any change in flow turbulence thus changes the characteristics of the vortex street, namely the amplitude and frequency of the vortex shedding. To quantitatively analyze the behavior of the vortex street the non-dimensional [Strouhal number](https://en.wikipedia.org/wiki/Strouhal_number)is used, denoted as
+Any change in flow turbulence thus changes the characteristics of the vortex street, namely the amplitude and frequency of the vortex shedding. To quantitatively analyze the behavior of the vortex street the non-dimensional [Strouhal number](https://en.wikipedia.org/wiki/Strouhal_number) is used, denoted as
 
 $$ St = \frac{fL}{U} $$
 
-where $f$ is the vortex shedding frequency. The Strouhal number is implemented to standardize the shedding frequency for a range of flow speeds and cylinder sizes. The aim of this project is to take a quantitative look into the relationship between the Strouhal number and the Reynolds number. 
-___
+where $f$ is the vortex shedding frequency. The Strouhal number is implemented to standardize the shedding frequency for a range of flow speeds and cylinder sizes. The aim of the class project was to take a quantitative look into the relationship between the Strouhal number and the Reynolds number. 
 
-This was the focus of the `report below`, which delves more into `waterlily.jl` and the relationship between shedding behavior and Reynolds number. For this report, I used `waterlily.jl` to take snapshots of the vorticity field at a steady state, while logging a time series of the lift coefficient $C_l$. The results captured the key relationships, and are discussed in the document. It is worth noting that the $C_l$ results are slightly inaccurate. In the Appendix, you'll note that I used: 
+---
+
+This was the focus of the `report below`, which delves more into my new fluid simulation tool of choice (`waterlily.jl`) and the relationship between shedding behavior and Reynolds number. For the report, I used `waterlily.jl` to take snapshots of the vorticity field at a steady state, while logging a time series of the lift coefficient $C_l$. The results captured the key relationships, and are discussed in the document. It is worth noting that the $C_l$ results are slightly inaccurate. In the Appendix, you'll note that I used: 
 ```Julia
 function get_forces!(sim,t)
     sim_step!(sim,t,remeasure=false)
@@ -67,23 +71,16 @@ This is slightly inaccurate, as `last.(forces)` later on only pulls the normaliz
     </div>
 </div>
 <div class="caption">
-    Considering the importance of the viscous forces on the cylinder at $Re=20$
+    Considering the importance of the viscous forces on the cylinder at $Re=120$
 </div>
 
+The viscous drag term is worth considering. However, in the report below, I had only considered the lift term, which is relatively unaffected by viscous forces. This is because the viscous force is only influencing lift in the short period of time that it is being deviated from the freestream direction:
 
-Ok. So from the perhaps confusing and brief background above, the expectation is subsequently that the vortex shedding frequency must change with respect to changes in turbulence. Let's prove it with some visuals that should make everything understandable.
+$$ \vec{U}=U_x\hat{\imath} + U_y\hat{\jmath} + 0\hat{k} $$ 
 
+$\frac{U_y}{\|\vec{U}\|}$ is always extremely small, which is why the viscous contribution to lift is fairly negligible. 
 
-
-
-
-
-
-
-
-
-`This one is in progress`
-
+Ok. So from the perhaps confusing and brief background above, hopefully the following report makes sense: 
 _Note: If you're checking this out on mobile, the embedded `pdf` gets a little sluggish. I suggest just clicking the `Download Report PDF` button._
 <!-- Download Button Container -->
 <div class="text-center mt-3 mb-4">
@@ -95,3 +92,35 @@ _Note: If you're checking this out on mobile, the embedded `pdf` gets a little s
     This browser does not support PDFs. Please download the PDF to view it: 
     <a href="{{ 'assets/pdf/cylinderstudy.pdf' | relative_url }}">Download PDF</a>.
 </iframe>
+
+---
+
+The academic project was useful, but I wanted to extend slightly. How? Well, I wanted to observe the transient beginning to each case!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/Reynolds_Grid/lift_drag_coefficients.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    difficult to visualize force data (improve!!)
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/Reynolds_Grid/multiple_Re_low.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    The flow developing around the circle for small Re numbers
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/Reynolds_Grid/multiple_Re_high.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    The flow developing around the circle for larg(er) Re numbers
+</div>
