@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some stuff I've done...with varying levels of both pride and effort (page is a work in progress)
 nav: true
 nav_order: 2
-display_categories: [Academic/Work, Personal]
+display_categories: [Personal, Academic/Work]
 horizontal: false
 ---
 Below I have linked some projects that I have completed either due to academic or personal motivations. The projects don't necessarily indicate an area of expertise or specialty, it is more to showcase my ability to reason and convey my process interacting with interesting problems and ideas. 
