@@ -49,7 +49,8 @@ Any change in flow turbulence thus changes the characteristics of the vortex str
 $$ St = \frac{fL}{U} $$
 
 where $f$ is the vortex shedding frequency. The Strouhal number is implemented to standardize the shedding frequency for a range of flow speeds and cylinder sizes. The aim of this project is to take a quantitative look into the relationship between the Strouhal number and the Reynolds number. 
------------------------------------
+___
+
 This was the focus of the `report below`, which delves more into `waterlily.jl` and the relationship between shedding behavior and Reynolds number. For this report, I used `waterlily.jl` to take snapshots of the vorticity field at a steady state, while logging a time series of the lift coefficient $C_l$. The results captured the key relationships, and are discussed in the document. It is worth noting that the $C_l$ results are slightly inaccurate. In the Appendix, you'll note that I used: 
 ```Julia
 function get_forces!(sim,t)
@@ -58,7 +59,7 @@ function get_forces!(sim,t)
     force./(0.5*sim.L*sim.U^2) # normalize for coefficients
 end
 ```
-This is slightly inaccurate, as `last.(forces)` later on only pulls the normalized lift coefficient as a result of pressure forces, which neglect viscous forces on the cylinder. This is relatively minor, as the circle's bluff (non-streamlined) geometry imply that pressure forces dominate. To 
+This is slightly inaccurate, as `last.(forces)` later on only pulls the normalized lift coefficient as a result of pressure forces, which neglect viscous forces on the cylinder. This is relatively minor, as the circle's bluff (non-streamlined) geometry imply that pressure forces dominate. To qualitatively show this, consider a simulation at $Re=120$:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -66,11 +67,12 @@ This is slightly inaccurate, as `last.(forces)` later on only pulls the normaliz
     </div>
 </div>
 <div class="caption">
-    Considering the importance of the viscous forces on the cylinder
+    Considering the importance of the viscous forces on the cylinder at $Re=20$
 </div>
 
 
 Ok. So from the perhaps confusing and brief background above, the expectation is subsequently that the vortex shedding frequency must change with respect to changes in turbulence. Let's prove it with some visuals that should make everything understandable.
+
 
 
 
