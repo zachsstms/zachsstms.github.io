@@ -80,6 +80,8 @@ $$ \vec{U}=U_x\hat{\imath} + U_y\hat{\jmath} + 0\hat{k} $$
 
 $\frac{U_y}{\|\vec{U}\|}$ is always extremely small, which is why the viscous contribution to lift is fairly negligible. 
 
+---
+
 Ok. So from the perhaps confusing and brief background above, hopefully the following report makes sense: 
 
 _Note: If you're checking this out on mobile, the embedded `pdf` gets a little sluggish. I suggest just clicking the `Download Report PDF` button._
@@ -108,7 +110,7 @@ Let's start with lift and drag:
     Time series of $C_l$ and $C_d$ as a function of $Re$
 </div>
 
-Yeesh. There's probably a better way to show that information (_might have to click "play"_)...
+Yeesh. There's probably a better way to show that information 😊... (_might have to click "play" to run the animations and "expand" to see them clearly...additionally, it appears there may be an issue if playing with mobile._)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -128,4 +130,8 @@ Yeesh. There's probably a better way to show that information (_might have to cl
     The flow developing around the circle for larg(er) Re numbers
 </div>
 
-<!-- nice -->
+---
+
+Nice. It is worth noting that the normalized vortex strength is qualitative, as including the colorbar made the animation appear clunky, however, we can quickly see that the magnitude of the vorticity changes with a change in Reynolds number. `WaterLily.jl` struggles to resolve the high fidelity effects that differentiate the more turbulent cases. However, if you look closely, you can see that the higher Reynold's tests have more micro-eddies that are shed. 
+
+Ultimately, this was a nice short yet comprehensive dive into the Von-Kármán vortex street. I hope the visuals were useful and cool looking!
