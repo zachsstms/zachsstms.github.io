@@ -15,8 +15,6 @@ category: Personal
     Flow around an infinite cylinder at $Re=1000$
 </div>
 
-`This one is still in progress, so no judging!`
-
 In my Junior year of college for a Fluid Dynamics class, we had a lab in a watertunnel that featured a cylinder---introducing me to to the [Von-Kármán Vortex Street](https://en.wikipedia.org/wiki/Vortex_shedding) and how the flow characteristics about an infinite aspect-ratio cylinder change as a function of the Reynolds number $Re$, which is defined by: 
 
 $$ Re=\frac{UL}{\nu} $$
@@ -132,6 +130,6 @@ Yeesh. There's probably a better way to show that information 😊... (_might ha
 
 ---
 
-Nice. It is worth noting that the normalized vortex strength is qualitative, as including the colorbar made the animation appear clunky, however, we can quickly see that the magnitude of the vorticity changes with a change in Reynolds number. `WaterLily.jl` struggles to resolve the high fidelity effects that differentiate the more turbulent cases. However, if you look closely, you can see that the higher Reynold's tests have more micro-eddies that are shed. 
+Nice. It is worth noting that the normalized vortex strength is qualitative, as including the colorbar made the animation appear clunky, however, we can quickly see that the magnitude of the vorticity changes with a change in Reynolds number. `WaterLily.jl` struggles to resolve the high fidelity effects that differentiate the more turbulent cases. However, if you look closely, you can see that the higher Reynold's tests have more micro-eddies that are shed. The animations of course buttress the discoveries from the paper. However, I found the transient formation of the vortices helpful when differentiating test cases 😁. 
 
 Ultimately, this was a nice short yet comprehensive dive into the Von-Kármán vortex street. I hope the visuals were useful and cool looking!
