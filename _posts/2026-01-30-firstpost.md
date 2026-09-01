@@ -358,6 +358,4 @@ Previously in the post, I referenced the number of `14ers` I had done during ano
 
 For me, I decided that the mountains were too meaningful to be relegated to the likes of a checklist. They _had_ to mean more. I needed to be confident that I would be pursing risky endeavors because that is what _I_ wanted to personally accomplish.  
 
-
-
-`Blog in Progress, you're too early!`
+It has been some time between completing this linkup and writing this post. I like to think that I have mostly adhered to these personal boundaries, but alas, it remains a work in progress eh? Darn the modern world!
