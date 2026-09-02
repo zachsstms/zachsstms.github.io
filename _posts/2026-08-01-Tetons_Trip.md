@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Rediscovering the Tetons 
-date: 2026-01-10 11:59:00-0700
+date: 2026-06-17 11:59:00-0700
 description: Some classics in one of America's most famous national parks
 tags: mountains
 categories: mountain-adventures
