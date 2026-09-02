@@ -13,7 +13,7 @@ toc:
 ---
 ## The Rediscovery (Mt. Teewinot)
 
-I first came to the [Grand Teton National Park](https://www.nps.gov/grte/index.htm) in 6th(?) grade for a school trip to the [Teton Science School](https://www.tetonscience.org/). However, it was a short lived trip, with mostly educational excursions around [Wilson](https://en.wikipedia.org/wiki/Wilson,_Wyoming). Five years later I returned for a cross-country ski race in the same area, but still had not yet explored the high mountains of the Tetons. 
+I first came to the [Grand Teton National Park](https://www.nps.gov/grte/index.htm) in 6th(?) grade for a school trip to the [Teton Science School](https://www.tetonscience.org/). It was a relatively uneventful, short lived trip, with mostly educational excursions around the satellite town of [Wilson](https://en.wikipedia.org/wiki/Wilson,_Wyoming). Five years later I returned for a cross-country ski race in the same area, but still had not yet explored the high mountains of the Tetons. 
 
 After a dissapointing end to my Junior year of college without an internship offer, I decided I would head up to [Afton](https://en.wikipedia.org/wiki/Afton,_Wyoming) to see if Aviat Aircraft was offering any work. However, they already had interns for the summer, and weren't looking for anybody at the time.<d-footnote>Perhpas a bit biased of me, but it is also worth noting that Aviat did not have any R&D emphasis, which could perhaps change now that CubCrafters came out with a turbopropelled bush plane!</d-footnote> I decided to make the most of the trip up north, and decided to drive up to [Jackson](https://en.wikipedia.org/wiki/Jackson_Hole) in order to finally get in the Teton Range!
 
