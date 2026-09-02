@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-long-day-on-the-eastside-aren-39-t-they-all",
+        },{id: "post-rediscovering-the-tetons",
+        
+          title: "Rediscovering the Tetons",
+        
+        description: "Some classics in one of America&#39;s most famous national parks",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Tetons_Trip/";
+          
+        },
+      },{id: "post-a-long-day-on-the-eastside-aren-39-t-they-all",
         
           title: "A Long Day on the Eastside (aren&#39;t they all)",
         
