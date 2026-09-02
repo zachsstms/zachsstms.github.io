@@ -5,7 +5,7 @@ date: 2026-01-10 11:59:00-0700
 description: Some classics in one of America's most famous national parks
 tags: mountains
 categories: mountain-adventures
-thumbnail: assets/img/Blogposts/Tetons_Trip_Aug_1/Teewinot/IMG_1322.webp
+thumbnail: assets/img/Blogposts/Tetons_Trip_Aug_1/Teewinot/IMG_1322.jpg
 toc:
   - name: The Rediscovery (Mt. Teewinot)
   - name: The Teton Crest Trail
@@ -35,13 +35,15 @@ I camped that night at the edge of the [National Elk Refuge](https://www.fws.gov
 During the drive in, I couldn't help looking at the imposing [Mt. Teewinot](https://www.summitpost.org/teewinot-mountain/151742), which is an imposing peak in the Grand Teton cirque closest to the valley floor. With snow clinging to the other peaks, it seemed like the mountain offering the best time to exploration ratio. I went for it. 
 
 Starting at the nontraditional yet personally typical time of noon, I made my way from the Jenny Lake trailhead up the steep and imposing Apex trail. 
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/Teewinot/Screenshot 2026-08-26 130225.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/Teewinot/IMG_1224.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/Teewinot/Screenshot 2026-08-26 130225.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -78,7 +80,7 @@ After a couple thousand feet of thuggin' up the trail, it took just a few hours 
 
 I proceeded carefully, generally contouring some tracks that looked to be a couple weeks old. I collapsed my treking poles and plunged them into the snow as makeshift ice axes, hoping the added thickness would give them some strength. Who said you never use mechanics of materials in real life?!
 
-$$ \{sigma}=\frac{My}{I} $$ 
+$$ \sigma=\frac{My}{I} $$ 
 
 Anyways, care was needed with the hard snow and crampon-less running shoes. 
 
