@@ -218,7 +218,7 @@ The push to Lake Solitude was difficult, as the heat of the day was starting to 
 Views of the Grand Teton from the North Fork of Cascade Creek and Lake Solitude
 </div>
 
-From Lake Solitude, the long climb to the [Paintbrush Divide](https://en.wikipedia.org/wiki/Paintbrush_Divide) had us back in the cooker, but we rallyed with the knowledge that it was our final climb. We ran into a gentleman carrying skis, aiming to descend a snowfield on the Northeastern aspects of `Peak 11272.` That's another level of dedication. 
+From Lake Solitude, the long climb to the [Paintbrush Divide](https://en.wikipedia.org/wiki/Paintbrush_Divide) had us back in the cooker, but we rallied with the knowledge that it was our final climb. We ran into a gentleman carrying skis, aiming to descend a snowfield on the Northeastern aspects of `Peak 11272.` That's another level of dedication. 
 
 The Paintbrush Divide was a wonderful last stint on the Crest. We enjoyed the beautiful smoke-less views of [Mt. Moran](https://en.wikipedia.org/wiki/Mount_Moran), and dreamed about the possibilities of future adventures in the area---procrastinating what was certainly going to be a painful 7 mile descent down Paintbrush Canyon to the car. 
 
@@ -241,7 +241,7 @@ After an unsurprisingly expensive crispy chicken sandwhich in Jackson, the group
 
 With another `3 am` wake up, my friend Wes (the Skimo kid) and I headed up the Lupine Meadows Valley Trail, looking to head up towards Garnet Canyon. Wes is incredibly strong, and had us to the Garnet Meadows before sunrise. 
 
-I was looking to attempt the Grand Teton via the classic (easiest) [Owen Spalding](https://www.mountainproject.com/route/105814121/owen-spalding), and Wes was planning on free-soloing some atrocious route on the Grand near the Teepe Pillar. We stayed together through Garnet Canyon, but he went ahead on the ascent to the North Fork of Garnet Canyon (forming between the Middle and Grand Tetons). 
+I was looking to attempt the Grand Teton via the classic (easiest) [Owen Spalding](https://www.mountainproject.com/route/105814121/owen-spalding), and Wes was planning on free-soloing some atrocious route on the Grand near the Teepe Pillar. We stayed together through Garnet Canyon, but he went ahead on the ascent to the North Fork of Garnet Canyon (forming between the Middle and Grand Teton). 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -252,6 +252,93 @@ I was looking to attempt the Grand Teton via the classic (easiest) [Owen Spaldin
 The Owen-Spalding route up the Grand Teton
 </div>
 
-I continued to 
+I continued to push my way up the glacial moraine that composes the North Fork, aiming to efficiently gain the lower saddle with varying degrees of success. Gaining the lower saddle involved mostly class 1 boulder-hopping with a short, steep (fixed-line aided) climb through a small cliff band. 
 
-`Blog in Progress`
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/gaining lower saddle.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/still gaining lower saddle.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Slowly trudging to the lower saddle, which sits between the Middle and Grand Teton!
+</div>
+
+The lower saddle is home to an established camp maintained by the Exum Mountain guides, which explains the guided traffic above this zone. With a stiff wind and a windbreaker being my warmest clothing layer, I quickly headed up towards the Upper Saddle which is nestled between the [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton) and [the Enclosure](https://jacksonholemagazine.com/feature-history/) (I recommend clicking the link and looking into the Enclosure briefly, the namesake rock structure indicates the presence of Indigenous peoples high on the Grand Teton, potentially thousands of years before white men). 
+
+Routefinding my way to the Upper Saddle was unideal but worked well enough. There's probably an optimal route through the class 2-3 scree field, but I passed the guided groups and navigated alone. It's only ~1,500 feet to the Upper Saddle, so any inefficiencies in the routefinding are relatively minor!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/uppersaddle.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+The Upper Saddle, gazing into Cascade Canyon far below
+</div>
+
+---
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/OSroutepic.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+The Owen-Spalding route map (taken from Mountain Project)
+</div>
+
+The Upper Saddle is where the `Owen-Spalding` truly begins, so if you're looking to summit the Grand Teton, it is worth noting that the 5th class section is from the Upper Saddle to the Summit only (300ft). I had not really looked at the route beforehand, other than noting it maxed out at `5.6` and taking a screenshot of a map on mountain project. As such, it was pretty slow moving, I used the map and my experience to leverage the weaknesses in the West Buttress. It was made worse by a fierce wind that appeared to come from all directions at once and the aforementioned lack of clothing. However, fortunately the route was dry. From the Upper Saddle, the first notable move is this ledge called the "Belly Roll." It is a super exposed traverse, yet has an abundance of great holds on great rock. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/bellyroll.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Looking at the instagram-famous "Belly Roll" 
+</div>
+
+Feeling good after the Belly Roll, I encountered the more tricky "Crawl." It gave me some pause with some slick rock (from people's rubber-soled shoes) and the dizzying exposure. However, I got through it in under a minute and headed up the "Double Chimney." I was feeling good with the sketchiest parts of the route under my feet. The Owen's and Sargent's Chimneys were fairly chill scrambles, and The Grand Teton is class three hiking from there. 
+
+Once I reached the summit, I was greeted with a few guided parties and some incredible views, in spite of the fire smoke that had rolled in the night before. I enjoyed some M&Ms at the top before heading down---with the goal of being in the route before the other people who were coming down after climbing the Exum ridge. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/summitS.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Looking south at the Middle Teton from the Grand 
+</div>
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/summitE.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/summitSW.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Views from the top of the Grand Teton, looking East (at Teewinot) and South East (Teepe Pillar??)
+</div>
+
+The descent was certainly more sketchy than the ascent, and I struggled a bit with the descent down both chimneys. However, I made it back to the lower saddle in twenty minutes, so fortunately was able to make the descent work, despite feeling slightly uneasy. 
+
+I noticed The Enclosure from the Upper Saddle and decided to check out the mystical rock formation at the summit. It was crazy to think about indigenous people fasting or holding ceremonies on the Enclosure, particularly considering that Garnet Canyon was likely fully glaciated. I enjoyed my time on the Enclosure, before the painful (on tired legs) and loose descent to the Lower Saddle. I got some messages from Wes saying he bailed on the route and took a nap near the Teepe Pillar instead, which provided some relief---I was guessing he was in the middle of free soloing some insane part of the Grand at that time. 
+
+After refilling my water, I did my best to run down back to the Lupine Meadows trailhead, where my buddy Jack picked me up for the 4 hour drive home. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/GarnetCanyon.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Looking at the Middle and South Tetons from Lower Garnet Canyon
+</div>
+
+If you ask me, it was a nice weekend. 
