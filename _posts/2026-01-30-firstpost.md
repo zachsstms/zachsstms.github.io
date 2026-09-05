@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: A Long Day on the Eastside (aren't they all) 
-date: 2026-01-10 11:59:00-0700
+date: 2025-11-19 11:59:00-0700
 description: A creative linkup and some thoughts on ego in the mountains
 tags: mountains philosophy
 categories: mountain-adventures
