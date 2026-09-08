@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<em>Mostly nonsensical ramblings with a touch of insight and adventure</em>"
+subtitle: "<em>A confusing mix of an engineering project and adventure report website 🤷‍♂</em>"
 
 profile:
   align: right
