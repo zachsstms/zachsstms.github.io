@@ -33,7 +33,7 @@ Assuming we're strangers, I'm an engineering student and a mountain enthusiastâ€
 
 My decision to join `NREL` originated with my passion for renewable energy and wind turbine aerodynamics. I've spent over two years with [Cal Poly Wind Power](https://calpolywindpower.org/), working as a member of the Aerodynamics team. I've learned a great deal about the aerodynamics of rotating bodies, and have participated in nearly every stage of the development of the turbine blades, from modeling to testing. The annual aim is to win the [Collegiate Wind Power Competition](https://www.energy.gov/eere/collegiatewindcompetition/collegiate-wind-competition), which essentially characterizes my job as an `optimizer and validater.`
 
-Outside of academics and engineering, I enjoy various self-actualizing hobbies, including skiing, running, climbing, and ocassionally paragliding. 
+Outside of academics and engineering, I enjoy various self-actualizing hobbies, including skiing, running, climbing, ocassional paragliding, and the consumption of orange juice. 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
 <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/aboutimage.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>   
