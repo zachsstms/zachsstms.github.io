@@ -123,7 +123,7 @@ After a quick summit and a facetime with a friend, I dropped back down the scree
 
 After Teewinot, my friend Jack Tooley (the same one I was facetiming from the summit) got hyperfocused with the [Teton Crest Trail](https://en.wikipedia.org/wiki/Teton_Crest_Trail). I was naturally snared in. We waited until August to drive up to Jackson, lassoing a former cross country ski buddy of mine, a former national ski mountaineering racer, and a friend of mine from the Cal Poly Alpine club---we were quite the crew. 
 
-The Crest is typically explored as a backpacking route over the extent of 3-4 days. However, we are far dumber than "typical"---we wanted to be done by noon, and didn't want to carry heavy packs.  
+The Crest is typically explored as a backpacking route over the extent of 3-4 days. However, we are far dumber than "typical"---we wanted to be done by noon the same day, and didn't want to carry heavy packs.  
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/tetoncrestmap.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -237,7 +237,7 @@ Funnily enough, the boys that raced off early in the day blew up in Cascade Cany
 
 ## The Grand Teton
 
-After an unsurprisingly expensive crispy chicken sandwhich in Jackson, the group planned how to spend Sunday, balancing fatigue with the ambitions that naturally come from being in such an inspiring place. I had looked at the Grand Teton for a long time, and decided to give it a fair attempt the next day, pending the level of muscle destruction in my legs. We decided to head into the Park again, sleeping...somewhere 😉.
+After an unsurprisingly expensive crispy chicken sandwhich in Jackson, the group planned how to spend Sunday, balancing fatigue with the ambitions that naturally come from being in such an inspiring place. I had looked at the Grand Teton for a long time, and decided to give it a fair attempt the next day, pending the level of muscle destruction from the TCT in my legs. We decided to head into the Park again, sleeping...somewhere 😉.
 
 With another `3 am` wake up, my friend Wes Perkins (the Skimo kid) and I headed up the Lupine Meadows Valley Trail, looking to head up towards Garnet Canyon. Wes is incredibly strong, and had us refilling water in the Garnet Meadows before sunrise. 
 
@@ -266,7 +266,7 @@ I continued to push my way up the glacial moraine that composes the North Fork, 
 Slowly trudging to the lower saddle, which sits between the Middle and Grand Teton!
 </div>
 
-The lower saddle is home to an established camp maintained by the Exum Mountain guides, which explains the guided traffic above this zone. With a stiff wind and a windbreaker being my warmest clothing layer, I quickly headed up towards the Upper Saddle which is nestled between the [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton) and [the Enclosure](https://jacksonholemagazine.com/feature-history/) (I recommend clicking the link and looking into the interesting and mysterious Enclosure briefly, the namesake rock structure indicates the presence of Indigenous peoples high on the Grand Teton, potentially thousands of years before white men). 
+The lower saddle is home to an established camp maintained by the Exum Mountain guides, which explains the guided traffic above this zone. With a stiff wind and a windbreaker being my warmest clothing layer, I quickly headed up towards the Upper Saddle which is nestled between the [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton) and [the Enclosure](https://jacksonholemagazine.com/feature-history/) (I recommend clicking the link and looking into the interesting and mysterious Enclosure briefly, the namesake rock structure indicates the presence of Indigenous peoples high on the Grand Teton, potentially thousands of years before white people). 
 
 Routefinding my way to the Upper Saddle was unideal but worked well enough. There's probably an optimal route through the class 2-3 scree field, but I passed the guided groups and navigated alone. It's only ~1,500 feet to the Upper Saddle, so any inefficiencies in the routefinding are relatively minor!
 
@@ -300,7 +300,7 @@ The Upper Saddle is where the `Owen-Spalding` truly begins, so if you're looking
 Looking at the instagram-famous "Belly Roll" 
 </div>
 
-Feeling good after the Belly Roll, I encountered the more tricky "Crawl." It gave me some pause with some slick rock (from people's rubber-soled shoes) and the dizzying exposure. However, I got through it in under a minute and headed up the "Double Chimney." I was feeling good with the sketchiest parts of the route under my feet. The Owen's and Sargent's Chimneys were fairly chill scrambles, and The Grand Teton is class three hiking from there. 
+Feeling good after the Belly Roll, I encountered the more tricky "Crawl." It gave me some pause with some slick rock (from people's rubber-soled shoes) and the dizzying exposure. However, I got through it in under a minute and headed up the "Double Chimney." I was feeling good with the sketchiest parts of the route under my feet. The Owen's and Sargent's Chimneys were fairly chill scrambles, and the Grand Teton is class three hiking from there. 
 
 Once I reached the summit, I was greeted with a few guided parties and some incredible views, in spite of the fire smoke that had rolled in the night before. I enjoyed some M&Ms at the top before heading down---with the goal of being in the route before the other people who were coming down after climbing the Exum ridge. 
 
@@ -326,9 +326,18 @@ Looking south at the Middle Teton from the Grand
 Views from the top of the Grand Teton, looking East (at Teewinot) and South East (Teepe Pillar?)
 </div>
 
-The descent was certainly more sketchy than the ascent, and I struggled a bit with the descent down both chimneys. However, I made it back to the lower saddle in twenty minutes, so fortunately was able to make the descent work, despite feeling slightly uneasy. 
+The descent was certainly more sketchy than the ascent, and I struggled a bit with both chimneys. However, I made it back to the lower saddle in twenty minutes, so fortunately I was able to make the descent work without aid, despite feeling slightly uneasy. 
 
-I noticed The Enclosure from the Upper Saddle and decided to check out the mystical rock formation at the summit. It was crazy to think about indigenous people fasting or holding ceremonies on the Enclosure, particularly considering that Garnet Canyon was likely moderately glaciated at that time. I enjoyed my time on the Enclosure, before the painful (on tired legs) loose and technical descent to the Lower Saddle. I got some messages from Wes saying he bailed on his `5.9` route and took a nap near the Teepe Pillar instead, which provided some relief---I was guessing he was in the middle of free soloing some insane part of the Grand at that time. 
+I noticed The Enclosure from the Upper Saddle and decided to check out the mystical rock formation at the summit. It was crazy to think about indigenous people fasting or holding ceremonies on the Enclosure, particularly considering that Garnet Canyon was likely moderately glaciated at that time. I enjoyed my time on the Enclosure, before the painful (on tired legs) loose and technical descent to the Lower Saddle. I got some messages from Wes saying he bailed on his `5.9` route and took a nap near the Teepe Pillar instead, which provided some relief---I was guessing he was in the middle of free soloing some insane part of the Grand at that time.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Blogposts/Tetons_Trip_Aug_1/The enclosure.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+Looking at the rock circle on the summit of the Enclosure with views of the Grand (on the right, with the summit just out of view) and Mt. Owen
+</div>
 
 After refilling my water, I did my best to run down back to the Lupine Meadows trailhead, where Tooley picked me up for the 4 hour drive home to Utah. 
 
