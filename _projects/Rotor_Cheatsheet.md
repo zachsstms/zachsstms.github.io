@@ -153,6 +153,25 @@ $$
     5 m/s flow moving over a hill with 0.5 steepness as a function of convective time
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Rotor_project/vorticity_snapshot_matrix1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Normalized vorticity plots
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Rotor_project/feasible_region_matrix1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Identifying a "safe" region derived from the vorticity concentration
+</div>
+
+
 
 
 
