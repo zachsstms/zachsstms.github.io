@@ -8,7 +8,7 @@ category: Personal
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/collapse.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/Rotor_Cheatsheet_vids/collapse.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
@@ -123,12 +123,11 @@ $$
 \begin{gathered}
 z \ge h(x) \\
 u_x \ge 0.9U \\
-
 |\omega^*| \le 0.15
 \end{gathered}
 $$
 
-The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\omega|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
+The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\omega^*|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
 
 --- 
 
@@ -145,12 +144,12 @@ The first restriction is logical: in order to fly you must be above the ground. 
 
 There are some clear faults in the work done so far. Of course, the glaring limitation is `Waterlily.jl` itself, which is marketed as a lightweight low-Reynold solver...most definitely not an atmospheric workhorse 😅. Nonetheless, it's fun and easy to customize, which is why I used it in the first place. To get the solver to provide some useful results, I had to clamp the Reynolds number order of magnitude ($Re \leq 1 \times 10^6$). As previously mentioned, this involved simulating the air at a higher-than-realistic viscosity. Moreover, this analysis is two-dimensional! The reason for this was computational expense---extending to three-dimensions could take a day or two to resolve, only for me to spot an error---too tedious! The goal here was to provide some useful results quickly, not to dive deep into computational efficiency and complexity. However, in the real world, turbulent flow around ridges and mountains is incredibly unsteady and gusty, meaning that three-dimensional effects are very much relevant. To that end, in the introduction I mentioned lapse rates! In the real world, temperature gradients drive dynamic changes to the hydrostatic equilibrium of the atmosphere. Sometimes, these thermic updrafts can be strong enough to block strong wind gusts. Pilots can predict the strength of these "blocks" with forecasting tools that have a layer for a [bouyancy to shear ratio](https://www.cfinotebook.net/notebook/aircraft-operations/gliding/thermal-soaring). 
 
-To summarize, I would say the analysis done here has X primary shortcomings: 
+To summarize, I would say the analysis done here has four primary shortcomings: 
 1. 2D Approximation of 3D effects
 2. Doesn't take into account bouyant/thermic forces
 3. Resolution fails to capture eddies that are present in realistic, extremely turbulent air
 4. "Safe zone" logic is subjective 
 
-Nonetheless, this was a cool project that enabled me to grapple with some common paragliding concepts, and I think there could be some interesting future work in this area that address some of the stated inaccuracies. I think a higher-fidelity CFD study on a real world .stl topographic file could be compelling. For example, pilots living on the Colorado Front Range (Boulder, Golden, etc.) constantly fly in thermically driven easterly wind that fights against prevailing westerly winds. In other words, pilots in that region constantly fly in the lee-side. It would be interesting (and helpful!?) to run a study taking into account the thermic bouyancy effectiveness in "blocking" the west wind, or modeling the conditions that produce higher-risk situations. It would be computationally expensive, which makes me quite hesitant to pursue such a project, especially given my distrust in myself to get things working the first time around. 
+Nonetheless, this was a cool project that enabled me to grapple with some common paragliding concepts, and I think there could be some interesting future work in this area that address some of the stated inaccuracies. I think a higher-fidelity CFD study on a real world `.stl` topographic file could be compelling. For example, pilots living on the Colorado Front Range (Boulder, Golden, etc.) constantly fly in thermically driven easterly wind that fights against prevailing westerly winds. In other words, pilots in that region constantly fly in the lee-side. It would be interesting (and helpful!?) to run a study taking into account the thermic bouyancy effectiveness in "blocking" the west wind, or modeling the conditions that produce higher-risk situations. It would be computationally expensive, which makes me quite hesitant to pursue such a project, especially given my distrust in myself to get things working the first time around. 
 
-Alternatively, it would be interesting to get some flight test data...but hey I'd rather just fly for fun. 
+Alternatively, it would be interesting to get some flight test data...but hey I'd rather just `fly` for `fun` 🤘
