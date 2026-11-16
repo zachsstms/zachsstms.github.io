@@ -120,9 +120,9 @@ ninja.data = [{
               window.location.href = "/projects/CylinderProject/";
             },},{id: "projects-survivable-or-nah",
           title: 'Survivable or Nah?!',
-          description: "A low-fidelity cheetsheet for soaring pilots electing to fly in rotor.",
+          description: "A low-fidelity cheatsheet for soaring pilots who fly in rotor.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Rotor_Cheetsheet/";
+              window.location.href = "/projects/Rotor_Cheatsheet/";
             },},{id: "projects-biconvex-airfoil-project",
           title: 'Biconvex Airfoil Project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
