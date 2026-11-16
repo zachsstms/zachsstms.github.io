@@ -135,6 +135,17 @@ The first restriction is logical: in order to fly you must be above the ground. 
 
 --- 
 
+The test matrix analyzed four wind speeds and hill steepnesses: 
+
+$$ \lvert\vec{U}\rvert=[2,5,10,15] \\
+H/W=[0.5,1,2,5]
+$$
+
+
+
+
+
+
 
 ---
 
