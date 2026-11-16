@@ -118,6 +118,11 @@ ninja.data = [{
           description: "Unsteady Flow around an Infinite Cylinder...with a bit of extra effort 🤷",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CylinderProject/";
+            },},{id: "projects-survivable-or-nah",
+          title: 'Survivable or Nah?!',
+          description: "A low-fidelity cheetsheet for soaring pilots electing to fly in rotor.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Rotor_Cheetsheet/";
             },},{id: "projects-biconvex-airfoil-project",
           title: 'Biconvex Airfoil Project',
           description: "Comparing supersonic airfoil analysis methods for the GU2 airfoil",
