@@ -8,7 +8,7 @@ category: Personal
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/collapse.mp4" class="img-fluid rounded z-depth-1 w-50 mx-auto d-block" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/collapse.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
@@ -41,9 +41,9 @@ Alternatively, higher performing wings enact another tradeoff: aspect ratio. The
 
 $$ D = q S \left( \underbrace{C_{D,0}}_{\text{Parasitic Drag}} + \underbrace{\frac{C_L^2}{\pi e AR}}_{\text{Induced Drag}} \right) $$
 
-For a paragliding wing, the parasitic drag is effectively the drag penalty of the wing flying unloaded in the air ($C_{D,0}, which is largely governed by the size of the cell-openings). However, the induced drag is the drag penalty associated with generating lift. When a person loads a glider with their weight, the air will have a tendency to wrap around the glider itself, causing low pressure vorticies behind the wing---being the physical manifestation of the induced drag. This was a pretty basic explanation, feel free to learn more [here (click me).](https://en.wikipedia.org/wiki/Lift-induced_drag)
+where $q$ is the dynamic pressure, $S$ is the wing surface area, $C_L$ is the wing's lift coefficient, and $e$ is the wing's [Oswald efficiency](https://en.wikipedia.org/wiki/Oswald_efficiency_number). For a paragliding wing, the parasitic drag is effectively the drag penalty of the wing flying unloaded in the air ($C_{D,0}$, which is largely governed by the size of the cell-openings). However, the induced drag is the drag penalty associated with generating lift. When a person loads a glider with their weight, the air will have a tendency to wrap around the tips of the glider itself, causing low pressure vorticies behind the wing---being the physical manifestation of the induced drag. This was a pretty basic explanation, feel free to learn more [here (click me).](https://en.wikipedia.org/wiki/Lift-induced_drag)
 
-Paraglider manufacturers increase the aspect ratio $AR$ to decrease the wing's induced drag. In practice, this results in wings that are long and skinny---resembling a snake more than a block. Increasing the aspect ratio vastly improves wing performance. However, it also (you guessed it) makes the wing more susceptable to collapses, as the wing behavior is more dynamic. 
+Paraglider manufacturers increase the aspect ratio $AR$ to decrease the wing's induced drag by making it more difficult for the air to wrap around the glider tips. In practice, this results in wings that are long and skinny---resembling a snake more than a block. Increasing the aspect ratio vastly improves wing performance. However, it also (you guessed it) makes the wing more susceptable to collapses, as the wing behavior is more dynamic. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
