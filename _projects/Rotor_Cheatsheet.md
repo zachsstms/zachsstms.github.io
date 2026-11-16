@@ -111,9 +111,9 @@ The kinematic viscosity of air is normally around $\nu_{\text{air}} \approx 1.5\
 
 One challenge is defining what "collapse-inducing turbulence" is in a paragliding context. I decided to examine vorticity, which is defined as the curl of the velocity vector: 
 
-$$ \omega = \nabla \times \arrow{U} =\frac{\partial u_y}{\partial x}-\frac{\partial u_x}{\partial y} $$ 
+$$ \omega = \nabla \times \vec{U} =\frac{\partial u_y}{\partial x}-\frac{\partial u_x}{\partial y} $$ 
 
-which has units of $s^{-1}$. Non-dimensionalizing yields: 
+which has units of $s^{-1}$. To non-dimensionalze, the velocity and characteristic length were used: 
 
 $$ \omega^*=\frac{\omega H}{U} $$
 
