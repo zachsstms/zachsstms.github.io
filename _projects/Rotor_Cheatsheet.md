@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survivable or Nah?!
-description: A low-fidelity cheetsheet for soaring pilots electing to fly in rotor.
+description: A low-fidelity cheatsheet for soaring pilots who fly in rotor.
 img: assets/img/Rotor_project/collapse.webp
 importance: 2
 category: Personal
@@ -17,16 +17,17 @@ category: Personal
 
 Paragliding is an interesting sport for a variety of reasons, however, much to the chagrin of a loving parent, one of those reasons is a certain _flexibility_ of the flying surface. 
 
-Yes, paragliders deform. They deform a lot. In fact, manufacturers of paragliders generally designate paragliders to reside in four performance categories: A, B, C, and D wings. Paragliders are a ram-air flying apparatus, which means that their aerodynamic structure is maintained by the force of the air entering the canopy through small cell openings. 
+Yes, paragliders deform. They deform a lot. In fact, manufacturers generally designate paragliders to reside in four performance categories: A, B, C, and D wings. Paragliders are a ram-air flying apparatus, which means that their aerodynamic structure is maintained by the force of the air entering the canopy through small cell openings. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Rotor_project/cell_openings.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Rotor_project/cell_openings.webp" class="img-fluid rounded z-depth-1 w-50 mx-auto d-block" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Ram-air cell openings on a paraglider provide aerodynamic shaping
 </div>
+
 
 Air that enters the cell openings expands within the sewn fabric---the internal pressure ultimately forcing the fabric to take the shape of a conventional wing with airfoil shaping, taper ratio, and lift-distribution optimization. As you can imagine, maintaining internal pressure is necessary for both the performance of the paraglider and the safety of the pilot (non-lifting fabric is just something cool to look at while you plummet). 
 
@@ -34,15 +35,15 @@ Paragliders strike a balance between securing internal pressure with efficient c
 
 Alternatively, higher performing wings enact another tradeoff: aspect ratio. The drag of a lifting surface is given as: 
 
-$$ D = q S \left[ \underbrace{C_{D,0}}_{\text{Parasitic Drag}} + \underbrace{\frac{C_L^2}{\pi e AR}}_{\text{Induced Drag}} \right] $$
+$$ D = q S \left( \underbrace{C_{D,0}}_{\text{Parasitic Drag}} + \underbrace{\frac{C_L^2}{\pi e AR}}_{\text{Induced Drag}} \right) $$
 
 For a paragliding wing, the parasitic drag is effectively the drag penalty of the wing flying unloaded in the air (largely governed by the size of the cell-openings). However, the induced drag is the drag penalty associated with generating lift. When a person loads a glider with their weight, the air will have a tendency to wrap around the glider itself, causing low pressure vorticies behind the wing---being the physical manifestation of the induced drag. This was a pretty basic explanation, feel free to learn more [here (click me).](https://en.wikipedia.org/wiki/Lift-induced_drag)
 
-Paraglider manufacturers increase the aspect ratio ($AR$) to decrease the wing's induced drag. In practice, this results in wings that are long and skinny---resembling a snake more than a block. Increasing the aspect ratio vastly improves wing performance. However, it also (you guessed it) makes the wing more susceptable to collapses, as the wing behavior is more dynamic. 
+Paraglider manufacturers increase the aspect ratio $AR$ to decrease the wing's induced drag. In practice, this results in wings that are long and skinny---resembling a snake more than a block. Increasing the aspect ratio vastly improves wing performance. However, it also (you guessed it) makes the wing more susceptable to collapses, as the wing behavior is more dynamic. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Rotor_project/aspect ratio.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Rotor_project/aspect ratio.webp" class="img-fluid rounded z-depth-1 w-50 mx-auto d-block" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -60,7 +61,7 @@ Gen Z nonsense aside, the atmosphere _is_ incredibly dynamic, largely driven by 
 1. Lapse rates
 2. Object based turbulence
 
-A lapse rate refers to the temperature change of the air as a function of altitude (usually around $9.8 \degrees C$ per kilometer of altitude). The lapse rate is what drives thermals, which are parcel-columns of rising air, and are ultimatley what paragliders, sailplanes, and birds use to gain altitude. I could talk about thermals all day, but for now, [read this article if interested](https://en.wikipedia.org/wiki/Thermal).
+A lapse rate refers to the temperature change of the air as a function of altitude (usually around $9.8 \degree C$ per kilometer of altitude). The lapse rate is what drives thermals, which are parcel-columns of rising air, and are ultimatley what paragliders, sailplanes, and birds use to gain altitude. I could talk about thermals all day, but for now, [read this article if interested](https://en.wikipedia.org/wiki/Thermal).
 
 Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it blocked, but some still gets through! You're feeling the turbulence in the lee-side of the building ([click here to learn more)](https://en.wikipedia.org/wiki/Turbulence)).
 
