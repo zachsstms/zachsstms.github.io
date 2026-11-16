@@ -15,6 +15,10 @@ category: Personal
     Inducing a collapse on a paraglider in a controlled environment
 </div>
 
+## Introduction 
+
+--- 
+
 Paragliding is an interesting sport for a variety of reasons, however, much to the chagrin of a loving parent, one of those reasons is a certain _flexibility_ of the flying surface. 
 
 Yes, paragliders deform. They deform a lot. In fact, manufacturers generally designate paragliders to reside in four performance categories: A, B, C, and D wings. Paragliders are a ram-air flying apparatus, which means that their aerodynamic structure is maintained by the force of the air entering the canopy through small cell openings. 
@@ -63,13 +67,17 @@ Gen Z nonsense aside, the atmosphere _is_ incredibly dynamic, largely driven by 
 
 A lapse rate refers to the temperature change of the air as a function of altitude (usually around $9.8 ^\circ C$ per kilometer of altitude). The lapse rate is what drives thermals, which are parcel-columns of rising air, and are ultimatley what paragliders, sailplanes, and birds use to gain altitude. I could talk about thermals all day, but for now, [read this article if interested](https://en.wikipedia.org/wiki/Thermal).
 
-Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it blocked, but some still gets through! You're feeling the turbulence in the lee-side of the building ([click here to learn more)](https://en.wikipedia.org/wiki/Turbulence)).
+Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it blocked, but some still gets through! You're feeling the turbulence in the lee-side of the building ([click here to learn more](https://en.wikipedia.org/wiki/Turbulence)). 
 
 Both thermic and terrain-based turbulence can (and often does) cause paraglider collapses. As such, whenever pilots elect to fly in the `lee-side`, they are taking on the most `risk of collapse`. Pilots fly in the lee-side of the wind to chase sun-exposure or stronger triggers for thermals. In fact, most pilots seeking to fly far rely on lee-side flying ([see here](https://xcmag.com/fly-better/paragliding-techniques-paramotoring-skills/flying-in-the-lee/)). As such, I thought it would be cool to study the limits of this to try and quantify the risk margins. 
 
 ---
 
-To do so, I went back to my old friend `Waterlily.jl` which was used over in the [cylinder project](/_projects/CylinderProject.md). The end goal is to perform a two dimensional study to determine how high and how close to a ridgeline pilots should operate to remain safe for a range of wind speeds and terrain angles. 
+## Methodology
+
+--- 
+
+To do so, I went back to my old friend `Waterlily.jl` which was used over in the [cylinder project](/projects/CylinderProject.md). The end goal is to perform a two dimensional study to determine how high and how close to a ridgeline pilots should operate to remain safe for a range of wind speeds and terrain angles. 
 
 The first step was to paramaterize a hill such that `Waterlily.jl` can interperet the geometry. To do so, I used a cosine-squared representation of a hill, being: 
 
@@ -108,6 +116,21 @@ $$ \omega = \nabla \times \arrow{U} =\frac{\partial u_y}{\partial x}-\frac{\part
 which has units of $s^{-1}$. Non-dimensionalizing yields: 
 
 $$ \omega^*=\frac{\omega H}{U} $$
+
+For simplicity's sake, $\omega^*$ governs the localized "rotationality" of the air. If the airmass has a large normalized vorticity at a point, then that point features significant air circulation and turbulence---the kind of thing that might collapse a paraglider. For a range of wind velocities $U$ and hill heights $H$, I screened "safe" zones using the following:
+
+$$ z>= \ge h(x) \ 
+u_x \ge 0.9U \ 
+|\omega^*|\le0.15
+$$
+
+The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\nu|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
+
+--- 
+
+## Results and Discussion
+
+--- 
 
 
 
