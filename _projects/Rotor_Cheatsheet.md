@@ -21,7 +21,7 @@ category: Personal
 
 Paragliding is an interesting sport for a variety of reasons, however, much to the chagrin of a loving parent, one of those reasons is a certain _flexibility_ of the flying surface. 
 
-Yes, paragliders deform. They deform a lot. In fact, manufacturers generally designate paragliders to reside in four performance categories: A, B, C, and D wings. Paragliders are a ram-air flying apparatus, which means that their aerodynamic structure is maintained by the force of the air entering the canopy through small cell openings. 
+Yes, paragliders deform. They deform a lot. In fact, manufacturers generally designate paragliders to reside in four performance and "collapsibility" categories: A, B, C, and D wings. Paragliders are a ram-air flying apparatus, which means that their aerodynamic structure is maintained by the force of the air entering the canopy through small cell openings. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -119,8 +119,8 @@ $$ \omega^*=\frac{\omega H}{U} $$
 
 For simplicity's sake, $\omega^*$ governs the localized "rotationality" of the air. If the airmass has a large normalized vorticity at a point, then that point features significant air circulation and turbulence---the kind of thing that might collapse a paraglider. For a range of wind velocities $U$ and hill heights $H$, I screened "safe" zones using the following:
 
-$$ z>= \ge h(x) \ 
-u_x \ge 0.9U \ 
+$$ z>= \ge h(x) /
+u_x \ge 0.9U / 
 |\omega^*|\le0.15
 $$
 
