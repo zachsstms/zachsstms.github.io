@@ -119,13 +119,7 @@ $$ \omega^*=\frac{\omega H}{U} $$
 
 For simplicity's sake, $\omega^*$ governs the localized "rotationality" of the air. If the airmass has a large normalized vorticity at a point, then that point features significant air circulation and turbulence---the kind of thing that might collapse a paraglider. For a range of wind velocities $U$ and hill heights $H$, I screened "safe" zones using the following:
 
-$$
-\begin{gathered}
-z \ge h(x) \\
-u_x \ge 0.9U \\
-|\omega^*| \le 0.15
-\end{gathered}
-$$
+$$ \begin{gathered} z \ge h(x) \\ u_x \ge 0.9U \\ |\omega^*| \le 0.15 \end{gathered} $$
 
 The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\nu|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
 
