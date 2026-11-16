@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survivable or Nah?!
+title: Running with the Wind
 description: A low-fidelity cheatsheet for soaring pilots who fly in the lee.
 img: assets/img/Rotor_project/collapse.webp
 importance: 2
@@ -60,14 +60,14 @@ Thus, as you can see, there is a pretty direct tradeoff between paraglider perfo
 
 "The atmosphere is hella active yo!" 
 
-Gen Z nonsense aside, the atmosphere _is_ incredibly dynamic, largely driven by changes in pressure and temperature. To avoid drifting out of scope for this little project, I'll quickly touch on two primary phenomona: 
+Nonsense aside, the atmosphere _is_ incredibly dynamic, largely driven by changes in pressure and temperature. To avoid drifting out of scope for this little project, I'll quickly touch on two primary phenomona: 
 
 1. Lapse rates
 2. Object based turbulence
 
 A lapse rate refers to the temperature change of the air as a function of altitude (usually around $9.8 ^\circ C$ per kilometer of altitude). The lapse rate is what drives thermals, which are parcel-columns of rising air, and are ultimatley what paragliders, sailplanes, and birds use to gain altitude. I could talk about thermals all day, but for now, [read this article if interested](https://en.wikipedia.org/wiki/Thermal).
 
-Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it blocked, but some still gets through! You're feeling the turbulence in the lee-side of the building ([click here to learn more](https://en.wikipedia.org/wiki/Turbulence)). 
+Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it's blocked, but some still gets around! You're feeling the turbulence in the lee-side of the building ([click here to learn more](https://en.wikipedia.org/wiki/Turbulence)). 
 
 Both thermic and terrain-based turbulence can (and often does) cause paraglider collapses. As such, whenever pilots elect to fly in the `lee-side`, they are taking on the most `risk of collapse`. Pilots fly in the lee-side of the wind to chase sun-exposure or stronger triggers for thermals. In fact, most pilots seeking to fly far rely on lee-side flying ([see here](https://xcmag.com/fly-better/paragliding-techniques-paramotoring-skills/flying-in-the-lee/)). As such, I thought it would be cool to study the limits of this to try and quantify the risk margins. 
 
@@ -107,7 +107,7 @@ I used the hill height to be the characteristic length parameter for conceptual 
 </div>
 
 
-The kinematic viscosity of air is normally around $\nu_{\text{air}} \approx 1.5\times10^{-5}\\mathrm{m^2/s}$. I made a decision to define an effective kinematic viscosity at $\nu=0.25\mathrm{m^2/s}\$. In practice, this is representing the unresolved turbulent mixing in the atmosphere as a larger momentum diffusion. Realistically, the air is not this viscous, but I'm really looking at a terrain and wind speed sweep, so I don't mind forcing the air to take on more viscosity as long as it remains constant.
+The kinematic viscosity of air is normally around $\nu \approx 1.5\times10^{-5}\\mathrm{m^2/s}$. I made a decision to define an effective kinematic viscosity at $\nu=0.25\mathrm{m^2/s}\$. In practice, this is representing the unresolved turbulent mixing in the atmosphere as a larger momentum diffusion. Realistically, the air is not this viscous, but I'm really looking at a terrain and wind speed sweep, so I don't mind forcing the air to take on more viscosity as long as it remains constant.
 
 One challenge is defining what "collapse-inducing turbulence" is in a paragliding context. I decided to examine vorticity, which is defined as the curl of the velocity vector: 
 
@@ -121,7 +121,7 @@ For simplicity's sake, $\omega^*$ governs the localized "rotationality" of the a
 
 $$ \begin{gathered} z \ge h(x) \\ u_x \ge 0.9U \\ |\omega^*| \le 0.15 \end{gathered} $$
 
-The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\nu|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
+The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\omega|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
 
 --- 
 
