@@ -12,7 +12,7 @@ category: Personal
     </div>
 </div>
 <div class="caption">
-    Inducing a collapse on a paraglider
+    Inducing a collapse on a paraglider in a controlled environment
 </div>
 
 Paragliding is an interesting sport for a variety of reasons, however, much to the chagrin of a loving parent, one of those reasons is a certain _flexibility_ of the flying surface. 
@@ -37,7 +37,7 @@ Alternatively, higher performing wings enact another tradeoff: aspect ratio. The
 
 $$ D = q S \left( \underbrace{C_{D,0}}_{\text{Parasitic Drag}} + \underbrace{\frac{C_L^2}{\pi e AR}}_{\text{Induced Drag}} \right) $$
 
-For a paragliding wing, the parasitic drag is effectively the drag penalty of the wing flying unloaded in the air (largely governed by the size of the cell-openings). However, the induced drag is the drag penalty associated with generating lift. When a person loads a glider with their weight, the air will have a tendency to wrap around the glider itself, causing low pressure vorticies behind the wing---being the physical manifestation of the induced drag. This was a pretty basic explanation, feel free to learn more [here (click me).](https://en.wikipedia.org/wiki/Lift-induced_drag)
+For a paragliding wing, the parasitic drag is effectively the drag penalty of the wing flying unloaded in the air ($C_{D,0}, which is largely governed by the size of the cell-openings). However, the induced drag is the drag penalty associated with generating lift. When a person loads a glider with their weight, the air will have a tendency to wrap around the glider itself, causing low pressure vorticies behind the wing---being the physical manifestation of the induced drag. This was a pretty basic explanation, feel free to learn more [here (click me).](https://en.wikipedia.org/wiki/Lift-induced_drag)
 
 Paraglider manufacturers increase the aspect ratio $AR$ to decrease the wing's induced drag. In practice, this results in wings that are long and skinny---resembling a snake more than a block. Increasing the aspect ratio vastly improves wing performance. However, it also (you guessed it) makes the wing more susceptable to collapses, as the wing behavior is more dynamic. 
 
@@ -61,23 +61,40 @@ Gen Z nonsense aside, the atmosphere _is_ incredibly dynamic, largely driven by 
 1. Lapse rates
 2. Object based turbulence
 
-A lapse rate refers to the temperature change of the air as a function of altitude (usually around $9.8 \degree C$ per kilometer of altitude). The lapse rate is what drives thermals, which are parcel-columns of rising air, and are ultimatley what paragliders, sailplanes, and birds use to gain altitude. I could talk about thermals all day, but for now, [read this article if interested](https://en.wikipedia.org/wiki/Thermal).
+A lapse rate refers to the temperature change of the air as a function of altitude (usually around $9.8 ^\circ C$ per kilometer of altitude). The lapse rate is what drives thermals, which are parcel-columns of rising air, and are ultimatley what paragliders, sailplanes, and birds use to gain altitude. I could talk about thermals all day, but for now, [read this article if interested](https://en.wikipedia.org/wiki/Thermal).
 
 Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it blocked, but some still gets through! You're feeling the turbulence in the lee-side of the building ([click here to learn more)](https://en.wikipedia.org/wiki/Turbulence)).
 
 Both thermic and terrain-based turbulence can (and often does) cause paraglider collapses. As such, whenever pilots elect to fly in the `lee-side`, they are taking on the most `risk of collapse`. Pilots fly in the lee-side of the wind to chase sun-exposure or stronger triggers for thermals. In fact, most pilots seeking to fly far rely on lee-side flying ([see here](https://xcmag.com/fly-better/paragliding-techniques-paramotoring-skills/flying-in-the-lee/)). As such, I thought it would be cool to study the limits of this to try and quantify the risk margins. 
 
---- 
+---
 
+To do so, I went back to my old friend `Waterlily.jl` which was used over in the [cylinder project](/_projects/CylinderProject.md). The end goal is to perform a two dimensional study to determine how high and how close to a ridgeline pilots should operate to remain safe for a range of wind speeds and terrain angles. 
 
+The first step was to paramaterize a hill such that `Waterlily.jl` can interperet the geometry. To do so, I used a cosine-squared representation of a hill, being: 
 
+$$ \[
+h(x)=H\cos^2\left(\frac{\pi(x-x_0)}{2W}\right),
+\qquad |x-x_0|\le W
+\]
+$$ 
 
+where $H$ is hill height, $x_0$ is the hill center, and $W$ is the hill half width. This parameterization was motivated by a paper conducting a similar study, but experimentally ([click here for the link!](https://www.sciencedirect.com/science/article/pii/S2352340925009813#bib0011)).
 
+From the hill parameterization, we can note that the parameter of "steepness" can be given by
+
+$$ s=\frac{H}{W} $$
+
+where a large $s$ implies that the hill is tall relative to its width. As mentioned in the [cylinder project](/_projects/CylinderProject.md), `Waterlily.jl` requires a Reynolds number for computation. The Reynolds number changes as the characteristic size of the hill and velocity changes. For reference: 
+
+$$ Re=\frac{UH}{\nu} $$
+
+I used the hill height to be the characteristic length parameter for conceptual simplicity. One could use the hill width as well, and both would scale appropriately if used consistently because they are coupled through the "steepness" parameter. 
 
 <div class="card my-3">
   <div class="card-body">
     <p class="card-text">
-      
+      Note: `Waterlily.jl` realistically cannot solve the actual mountain-scale flow because of the inherrent turbulence resolution. I want to run this on my laptop! Because mountains can yield $Re$ values in the $1 \times 10^8$, I simplify the problem with a normalized effective velocity defined below.   
     </p>
   </div>
 </div>
