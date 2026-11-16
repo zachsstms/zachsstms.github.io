@@ -3,7 +3,7 @@ layout: page
 title: Survivable or Nah?!
 description: A low-fidelity cheetsheet for soaring pilots electing to fly in rotor.
 img: assets/img/Rotor_project/collapse.webp
-importance: 1
+importance: 2
 category: Personal
 ---
 <div class="row mt-3">
