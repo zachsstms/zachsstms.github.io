@@ -137,9 +137,22 @@ The first restriction is logical: in order to fly you must be above the ground. 
 
 The test matrix analyzed four wind speeds and hill steepnesses: 
 
-$$ \lvert\vec{U}\rvert=[2,5,10,15] \\
+$$ 
+\begin{gathered}
+\lvert\vec{U}\rvert=[2,5,10,15] \\
 H/W=[0.5,1,2,5]
+\end(gathered)
 $$
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/Rotor_Cheatsheet_vids/flow.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    5 m/s flow moving over a hill with 0.5 steepness as a function of convective time
+</div>
+
 
 
 
