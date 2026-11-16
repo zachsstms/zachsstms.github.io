@@ -121,9 +121,9 @@ For simplicity's sake, $\omega^*$ governs the localized "rotationality" of the a
 
 $$
 \begin{gathered}
-z \ge h(x) \\
-u_x \ge 0.9U \\
-|\omega^*| \le 0.15
+z \geq h(x) \\
+u_x \geq 0.9U \\
+|\omega^*| \leq 0.15
 \end{gathered}
 $$
 
