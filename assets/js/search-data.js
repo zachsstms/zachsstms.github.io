@@ -118,8 +118,8 @@ ninja.data = [{
           description: "Unsteady Flow around an Infinite Cylinder...with a bit of extra effort 🤷",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CylinderProject/";
-            },},{id: "projects-survivable-or-nah",
-          title: 'Survivable or Nah?!',
+            },},{id: "projects-running-with-the-wind",
+          title: 'Running with the Wind',
           description: "A low-fidelity cheatsheet for soaring pilots who fly in the lee.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Rotor_Cheatsheet/";
