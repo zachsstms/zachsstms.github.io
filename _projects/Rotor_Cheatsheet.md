@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survivable or Nah?!
-description: A low-fidelity cheatsheet for soaring pilots who fly in rotor.
+description: A low-fidelity cheatsheet for soaring pilots who fly in the lee.
 img: assets/img/Rotor_project/collapse.webp
 importance: 2
 category: Personal
@@ -107,7 +107,7 @@ I used the hill height to be the characteristic length parameter for conceptual 
 </div>
 
 
-The kinematic viscosity of air is normally around $\nu_{\text{air}} \approx 1.5\times10^{-5}\\mathrm{m^2/s}$. I made a decision to define an effective kinematic viscosity at $\nu=0.25\mathrm{m^2/s}\$. In practice, this is representing the unresolved turbulent mixing in the atmosphere as a larger momentum diffusion. In practice, the air is not this viscous, but I'm really looking at a terrain and wind speed sweep, so I don't mind forcing the air to take on more viscosity as long as it remains constant.
+The kinematic viscosity of air is normally around $\nu_{\text{air}} \approx 1.5\times10^{-5}\\mathrm{m^2/s}$. I made a decision to define an effective kinematic viscosity at $\nu=0.25\mathrm{m^2/s}\$. In practice, this is representing the unresolved turbulent mixing in the atmosphere as a larger momentum diffusion. Realistically, the air is not this viscous, but I'm really looking at a terrain and wind speed sweep, so I don't mind forcing the air to take on more viscosity as long as it remains constant.
 
 One challenge is defining what "collapse-inducing turbulence" is in a paragliding context. I decided to examine vorticity, which is defined as the curl of the velocity vector: 
 
@@ -119,9 +119,12 @@ $$ \omega^*=\frac{\omega H}{U} $$
 
 For simplicity's sake, $\omega^*$ governs the localized "rotationality" of the air. If the airmass has a large normalized vorticity at a point, then that point features significant air circulation and turbulence---the kind of thing that might collapse a paraglider. For a range of wind velocities $U$ and hill heights $H$, I screened "safe" zones using the following:
 
-$$ z>= \ge h(x) /
-u_x \ge 0.9U / 
-|\omega^*|\le0.15
+$$
+\begin{gathered}
+z \ge h(x) \\
+u_x \ge 0.9U \\
+|\omega^*| \le 0.15
+\end{gathered}
 $$
 
 The first restriction is logical: in order to fly you must be above the ground. The second restriction is a judgement regarding the classification of the region directly behind the hill as being unsafe (flow is severely circulating, such that the direction is significantly altered). Pilots generally stay away from the deep lee-side, and I want to focus on the liminal boundary between safe and unsafe. For the third, I elected to consider vorticity values above $|\nu|=0.15$ as too turbulent for flight. After a sensitivity sweep, it appeared to be a value that provided sufficient resolution for my purposes and doesn't have physical meaning!
