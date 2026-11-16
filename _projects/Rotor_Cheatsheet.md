@@ -73,10 +73,9 @@ To do so, I went back to my old friend `Waterlily.jl` which was used over in the
 
 The first step was to paramaterize a hill such that `Waterlily.jl` can interperet the geometry. To do so, I used a cosine-squared representation of a hill, being: 
 
-$$ \[
+$$ 
 h(x)=H\cos^2\left(\frac{\pi(x-x_0)}{2W}\right),
 \qquad |x-x_0|\le W
-\]
 $$ 
 
 where $H$ is hill height, $x_0$ is the hill center, and $W$ is the hill half width. This parameterization was motivated by a paper conducting a similar study, but experimentally ([click here for the link!](https://www.sciencedirect.com/science/article/pii/S2352340925009813#bib0011)).
@@ -91,17 +90,24 @@ $$ Re=\frac{UH}{\nu} $$
 
 I used the hill height to be the characteristic length parameter for conceptual simplicity. One could use the hill width as well, and both would scale appropriately if used consistently because they are coupled through the "steepness" parameter. 
 
-<div class="card my-3">
-  <div class="card-body">
-    <p class="card-text">
-      Note: `Waterlily.jl` realistically cannot solve the actual mountain-scale flow because of the inherrent turbulence resolution. I want to run this on my laptop! Because mountains can yield $Re$ values in the $1 \times 10^8$, I simplify the problem with a normalized effective velocity defined below.   
+<div class="card my-3 border-0 shadow-sm" style="background-color: #ffeef4; color: #1a1a1a; border-left: 5px solid #e83e8c !important; border-radius: 8px;">
+  <div class="card-body py-3 px-4">
+    <p class="card-text mb-0">
+      <strong>Note:</strong> Waterlily.jl realistically cannot solve actual mountain-scale flow because of the inherent turbulence resolution. I want to run this on my laptop! Because mountains can yield $Re$ values in the $1 \times 10^8$ magnitude range, I simplify the problem with a normalized effective velocity defined below.
     </p>
   </div>
 </div>
 
 
+The kinematic viscosity of air is normally around $\nu_{\text{air}} \approx 1.5\times10^{-5}\\mathrm{m^2/s}$. I made a decision to define an effective kinematic viscosity at $\nu=0.25\mathrm{m^2/s}\$. In practice, this is representing the unresolved turbulent mixing in the atmosphere as a larger momentum diffusion. In practice, the air is not this viscous, but I'm really looking at a terrain and wind speed sweep, so I don't mind forcing the air to take on more viscosity as long as it remains constant.
 
+One challenge is defining what "collapse-inducing turbulence" is in a paragliding context. I decided to examine vorticity, which is defined as the curl of the velocity vector: 
 
+$$ \omega = \nabla \times \arrow{U} =\frac{\partial u_y}{\partial x}-\frac{\partial u_x}{\partial y} $$ 
+
+which has units of $s^{-1}$. Non-dimensionalizing yields: 
+
+$$ \omega^*=\frac{\omega H}{U} $$
 
 
 
