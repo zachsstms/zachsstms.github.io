@@ -139,8 +139,8 @@ The test matrix analyzed four wind speeds and hill steepnesses:
 
 $$
 \begin{gathered}
-\lvert \vec{U} \rvert = 2, 5, 10, 15 \\
-H / W = 0.5, 1, 2, 5
+\lvert \vec{U} \rvert = [2, 5, 10, 15] \\
+H / W = [0.5, 1, 2, 5]
 \end{gathered}
 $$
 
