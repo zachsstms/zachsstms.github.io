@@ -9,7 +9,7 @@ display_categories: [Personal, Academic/Work]
 horizontal: false
 ---
 Below I have linked some projects that I have completed either due to academic or personal motivations. The projects don't necessarily indicate an area of expertise or specialty, it is more to showcase my ability to reason and convey my process interacting with interesting problems and ideas. 
-_Note: Most of my projects here will be in `pdf` form. This is because I have limited faith in the robustness of this site 😂_
+_Note: Most of my projects here will be in `pdf` form. This is because I have limited faith in the robustness of this site!_
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
