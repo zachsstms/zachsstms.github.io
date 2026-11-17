@@ -182,11 +182,10 @@ In the future, I would like to extend this analysis to encompass a larger set of
     </div>
 </div>
 <div class="caption">
-    Identifying a "safe" region derived from the vorticity concentration
+    Identifying a "safe" region (blue) derived from the vorticity concentration
 </div>
 
-
-`Discussion coming soon`
+`Discussion in progress!`
 
 
 
