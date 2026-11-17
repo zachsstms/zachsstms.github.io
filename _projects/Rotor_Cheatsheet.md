@@ -160,18 +160,6 @@ In the future, I would like to extend this analysis to encompass a larger set of
         {% include figure.liquid path="assets/img/Rotor_project/vorticity_snapshot_matrix1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
-    Normalized vorticity plots
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Rotor_project/feasible_region_matrix1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    Identifying a "safe" region derived from the vorticity concentration
-</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -180,6 +168,12 @@ In the future, I would like to extend this analysis to encompass a larger set of
 </div>
 <div class="caption">
     Normalized vorticity plots
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Rotor_project/feasible_region_matrix1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 
 <div class="row mt-3">
