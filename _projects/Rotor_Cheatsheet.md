@@ -69,7 +69,7 @@ A lapse rate refers to the temperature change of the air as a function of altitu
 
 Object based turbulence on the other hand is quite simple: when the wind encounters an obstacle or terrain, it gets turbulent, as the air mass behind the feature has a lower pressure than the windward side. We all can intuit this: if it's windy out, try hiding behind a building. The wind will feel as though it's blocked, but some still gets around! You're feeling the turbulence in the lee-side of the building ([click here to learn more](https://en.wikipedia.org/wiki/Turbulence)). 
 
-Both thermic and terrain-based turbulence can (and often does) cause paraglider collapses. As such, whenever pilots elect to fly in the `lee-side`, they are taking on the most `risk of collapse`. Pilots fly in the lee-side of the wind to chase sun-exposure or stronger triggers for thermals. In fact, most pilots seeking to fly far rely on lee-side flying ([see here](https://xcmag.com/fly-better/paragliding-techniques-paramotoring-skills/flying-in-the-lee/)). As such, I thought it would be cool to study the limits of this to try and quantify the risk margins. 
+Both thermic and terrain-based turbulence can (and often does) cause paraglider collapses. As such, whenever pilots elect to fly in the `lee-side`, they are taking on the most `risk of collapse`. Pilots fly in the lee-side of the wind to chase sun-exposure or stronger triggers for thermals. In fact, most pilots seeking to fly far rely on lee-side flying ([see here](https://xcmag.com/fly-better/paragliding-techniques-paramotoring-skills/flying-in-the-lee/)). As such, I thought it would be cool to study the limits of this to try and quantify the risk margins. Furthermore, I wanted to see if I could validate the rule of thumb discussed in [this youtube video](https://www.youtube.com/watch?v=3RaKYWVy4OA). 
 
 ---
 
@@ -135,7 +135,7 @@ The first restriction is logical: in order to fly you must be above the ground. 
 
 --- 
 
-The test matrix analyzed two wind speeds and four hill steepnesses: 
+I ultimately used a test matrix that analyzed two wind speeds and four hill steepnesses: 
 
 $$
 \begin{gathered}
@@ -143,6 +143,8 @@ $$
 H / W = [0.5, 1, 2, 3]
 \end{gathered}
 $$
+
+In the future, I would like to extend this analysis to encompass a larger set of test cases. However, with up to an hour per test point in runtime, I had to realistically curb my ambitions. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -171,7 +173,7 @@ $$
     Identifying a "safe" region derived from the vorticity concentration
 </div>
 
-div class="row mt-3">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Rotor_project/vorticity_snapshot_matrix2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
